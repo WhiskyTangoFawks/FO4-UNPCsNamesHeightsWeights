@@ -1,0 +1,4 @@
+{"version":1,"steps":[
+{"copy":["optional"]},
+{"compile":["UNPC - KidInAFridgePeabodySettlers.esp","UNPC - Lunar - Facials.esp","UNPC - Lunar - ScalingTweaks.esp","UNPC - Lunar.esp","UNPC - SanctuaryNPCs.esp","UNPC - TrainBar.esp","UNPC - Vault81Recruitment.esp"]}
+]}

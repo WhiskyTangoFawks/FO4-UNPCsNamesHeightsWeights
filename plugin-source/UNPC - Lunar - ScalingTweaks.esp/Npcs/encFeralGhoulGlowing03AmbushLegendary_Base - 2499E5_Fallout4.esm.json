@@ -1,0 +1,177 @@
+{
+  "FormKey": "2499E5:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "encFeralGhoulGlowing03AmbushLegendary_Base",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 83,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.0
+  },
+  "CalcMinLevel": 58,
+  "DispositionBase": 35,
+  "UseTemplateActors": "3630",
+  "Factions": [
+    {
+      "Faction": "077C6C:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "21C009:Fallout4.esm",
+  "Voice": "09B20A:Fallout4.esm",
+  "DefaultTemplate": "0A0EEE:Fallout4.esm",
+  "TemplateActors": {
+    "StatsTemplate": "0A0EEE:Fallout4.esm",
+    "FactionsTemplate": "0A0EEE:Fallout4.esm",
+    "SpellListTemplate": "16556B:Fallout4.esm",
+    "AiPackagesTemplate": "0A0EEE:Fallout4.esm",
+    "ScriptTemplate": "0A0EEE:Fallout4.esm",
+    "DefPackListTemplate": "0A0EEE:Fallout4.esm",
+    "AttackDataTemplate": "0A0EEE:Fallout4.esm"
+  },
+  "Race": "0A96BF:Fallout4.esm",
+  "ActorEffect": [
+    "0A564A:Fallout4.esm",
+    "0DB3AD:Fallout4.esm",
+    "1FE6AC:Fallout4.esm",
+    "21C007:Fallout4.esm"
+  ],
+  "AttackRace": "06B4EC:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0F75E3:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "8F19BC:LunarFalloutOverhaul.esp",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 500.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 90.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 90.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 75.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 175.0
+    }
+  ],
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsFriendsAndAllies",
+  "Keywords": [
+    "1CF26C:Fallout4.esm",
+    "215CE7:Fallout4.esm",
+    "0018A0:Unique NPCs - Creatures and Monsters.esp"
+  ],
+  "AttachParentSlots": [
+    "24A0FA:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "SkinBase"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "001CF5:Unique NPCs - Creatures and Monsters.esp",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "SkinRandom"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "001CF5:Unique NPCs - Creatures and Monsters.esp",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ],
+  "Class": "123E16:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Legendary Bloated Glowing One"
+  },
+  "CalculatedHealth": 785,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "15B53F:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.95,
+  "NAM7": 0.0,
+  "HeightMax": 1.1,
+  "Weight": {
+    "Muscular": 3.4028235E+38
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "098175:Fallout4.esm",
+  "DefaultOutfit": "0009C9:Unique NPCs - Creatures and Monsters.esp",
+  "SleepingOutfit": "0009C9:Unique NPCs - Creatures and Monsters.esp",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#D5CCCA",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

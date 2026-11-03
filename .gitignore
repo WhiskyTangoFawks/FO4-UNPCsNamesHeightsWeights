@@ -1,0 +1,8 @@
+*
+!/.gitignore
+!/.gitattributes
+!/build.json
+!/plugin-source/
+!/plugin-source/**
+!/UNPCs\ -\ Minor\ Conflict\ Resolution\ Patches.manifest.json
+/optional/UNPC\ -\ ImmersiveDrumlinDiner.esp

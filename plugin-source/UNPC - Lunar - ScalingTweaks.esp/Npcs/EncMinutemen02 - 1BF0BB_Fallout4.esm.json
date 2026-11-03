@@ -1,0 +1,199 @@
+{
+  "FormKey": "1BF0BB:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncMinutemen02",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "XpValueOffset": 15,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 9
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "7743",
+  "Unknown": -16332,
+  "Factions": [
+    {
+      "Faction": "0035DE:Fallout4.esm"
+    },
+    {
+      "Faction": "02E005:Fallout4.esm"
+    },
+    {
+      "Faction": "02F126:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "0337F3:Fallout4.esm"
+    },
+    {
+      "Faction": "062555:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "062556:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "068043:Fallout4.esm"
+    },
+    {
+      "Faction": "0C8608:Fallout4.esm"
+    },
+    {
+      "Faction": "17E8A7:Fallout4.esm"
+    },
+    {
+      "Faction": "198846:Fallout4.esm"
+    }
+  ],
+  "Voice": "023323:Fallout4.esm",
+  "DefaultTemplate": "1BF0B7:Fallout4.esm",
+  "TemplateActors": {
+    "TraitTemplate": "1BF0B7:Fallout4.esm",
+    "StatsTemplate": "1E7429:Fallout4.esm",
+    "FactionsTemplate": "1BF0B7:Fallout4.esm",
+    "SpellListTemplate": "1BF0B7:Fallout4.esm",
+    "AiDataTemplate": "1BF0B7:Fallout4.esm",
+    "AiPackagesTemplate": "1BF0B7:Fallout4.esm",
+    "ScriptTemplate": "1BF0B7:Fallout4.esm",
+    "DefPackListTemplate": "1BF0B7:Fallout4.esm",
+    "AttackDataTemplate": "1BF0B7:Fallout4.esm",
+    "KeywordsTemplate": "1BF0B7:Fallout4.esm"
+  },
+  "Race": "013746:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "240331:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "30586B:LunarFalloutOverhaul.esp",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 30.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "02332A:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A6:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "1081B9:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "11003C:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "1BF0BA:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "ViolenceAgainstEnemies",
+  "Assistance": "HelpsAllies",
+  "Packages": [
+    "249823:Fallout4.esm"
+  ],
+  "Keywords": [
+    "1B5CB8:Fallout4.esm"
+  ],
+  "Class": "05F970:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Minuteman"
+  },
+  "CalculatedHealth": 30,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HeadParts": [
+    "01EEBB:Fallout4.esm",
+    "01F735:Fallout4.esm",
+    "0423AF:Fallout4.esm",
+    "051631:Fallout4.esm",
+    "0844A7:Fallout4.esm",
+    "08E1AA:Fallout4.esm",
+    "08E1AB:Fallout4.esm",
+    "11CCBD:Fallout4.esm",
+    "135A95:Fallout4.esm",
+    "14108D:Fallout4.esm"
+  ],
+  "CombatStyle": "301419:LunarFalloutOverhaul.esp",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.98,
+  "NAM7": 0.0,
+  "HeightMax": 1.04,
+  "Weight": {
+    "Muscular": 0.7421,
+    "Fat": 0.2579
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "04645B:Fallout4.esm",
+  "CrimeFaction": "068043:Fallout4.esm",
+  "TextureLighting": "#F7EFEE",
+  "Morphs": [
+    {
+      "Key": 921646213,
+      "Value": 1.0
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

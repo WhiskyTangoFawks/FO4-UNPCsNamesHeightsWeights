@@ -1,0 +1,167 @@
+{
+  "FormKey": "165563:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "encFeralGhoul04Legendary_Base",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn"
+  ],
+  "XpValueOffset": 32,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 22
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "3902",
+  "Factions": [
+    {
+      "Faction": "077C6C:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "087927:Fallout4.esm",
+  "Voice": "09B20A:Fallout4.esm",
+  "DefaultTemplate": "07ED09:Fallout4.esm",
+  "TemplateActors": {
+    "StatsTemplate": "07ED09:Fallout4.esm",
+    "FactionsTemplate": "07ED09:Fallout4.esm",
+    "SpellListTemplate": "165561:Fallout4.esm",
+    "AiDataTemplate": "07ED09:Fallout4.esm",
+    "AiPackagesTemplate": "07ED09:Fallout4.esm",
+    "InventoryTemplate": "07ED09:Fallout4.esm",
+    "ScriptTemplate": "07ED09:Fallout4.esm",
+    "DefPackListTemplate": "07ED09:Fallout4.esm",
+    "AttackDataTemplate": "07ED09:Fallout4.esm"
+  },
+  "Race": "06B4EC:Fallout4.esm",
+  "ActorEffect": [
+    "1FE6AC:Fallout4.esm"
+  ],
+  "AttackRace": "06B4EC:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "8F19B9:LunarFalloutOverhaul.esp",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 2.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 140.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 40.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 40.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 60.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Keywords": [
+    "1CF26C:Fallout4.esm",
+    "215CD9:Fallout4.esm",
+    "0018A0:Unique NPCs - Creatures and Monsters.esp"
+  ],
+  "AttachParentSlots": [
+    "24A0FA:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "SkinBase"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "001C85:Unique NPCs - Creatures and Monsters.esp",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "SkinRandom"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "001C85:Unique NPCs - Creatures and Monsters.esp",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ],
+  "Class": "123E16:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Legendary Feral Ghoul Reaver"
+  },
+  "CalculatedHealth": 50,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "CombatStyle": "09990E:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.95,
+  "NAM7": 0.0,
+  "HeightMax": 1.1,
+  "Weight": {
+    "Thin": 3.4028235E+38,
+    "Muscular": 3.4028235E+38,
+    "Fat": 3.4028235E+38
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "098175:Fallout4.esm",
+  "DefaultOutfit": "06388F:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#D5CCCA",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

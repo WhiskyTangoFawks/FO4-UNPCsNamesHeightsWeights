@@ -1,0 +1,13 @@
+{
+  "ModKey": "UNPC - KidInAFridgePeabodySettlers.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 1
+    },
+    "Author": ""
+  }
+}
