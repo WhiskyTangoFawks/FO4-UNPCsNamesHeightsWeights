@@ -1,0 +1,2168 @@
+{
+  "FormKey": "11D83F:Fallout4.esm",
+  "EditorID": "HumanChildRace",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Human"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Skin": "107FE0:Fallout4.esm",
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "Body",
+      "LeftHand",
+      "RightHand",
+      "LeftArmArmor",
+      "RightArmArmor",
+      "Ring",
+      "Shield",
+      "Pipboy",
+      "FX"
+    ]
+  },
+  "Keywords": [
+    "013794:Fallout4.esm",
+    "02CB72:Fallout4.esm",
+    "1157E8:Fallout4.esm"
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C6:Fallout4.esm",
+      "Value": 7.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 40.0
+    },
+    {
+      "ActorValue": "0002D8:Fallout4.esm",
+      "Value": 6.0
+    },
+    {
+      "ActorValue": "0002D9:Fallout4.esm",
+      "Value": 1.0
+    },
+    {
+      "ActorValue": "0002E0:Fallout4.esm",
+      "Value": 1.0
+    },
+    {
+      "ActorValue": "12723E:Fallout4.esm",
+      "Value": 1.0
+    }
+  ],
+  "Height": {
+    "Male": 0.825,
+    "Female": 0.825
+  },
+  "DefaultWeight": {
+    "Male": {
+      "Thin": 0.5,
+      "Muscular": 0.5
+    },
+    "Female": {
+      "Thin": 0.5,
+      "Muscular": 0.5
+    }
+  },
+  "Flags": [
+    "Playable",
+    "FaceGenHead",
+    "Swims",
+    "Walks",
+    "NoCombatInWater",
+    "UsesHeadTrackAnims",
+    "AllowPcDialog",
+    "AllowPickpocket",
+    "CanPickupItems",
+    "CanDualWield",
+    "UseAdvancedAvoidance",
+    "HeadAxisBit0",
+    "0x400000000000"
+  ],
+  "AccelerationRate": 1.0,
+  "DecelerationRate": 1.0,
+  "Size": "Medium",
+  "Unknown": "0x0200000000000000",
+  "ShieldBipedObject": "Shield",
+  "BodyBipedObject": "Body",
+  "FlightRadius": 1.0,
+  "AngularAccelerationRate": 0.25,
+  "AngularTolerance": 5.0,
+  "Unknown2": "0x0000803E0000A04021000000000000000000000000000000000000000000000000000000",
+  "PipboyBipedObject": "Pipboy",
+  "SeverableDebrisScale": 1.0,
+  "SeverableDebrisCount": 5,
+  "ExplodableDebrisScale": 1.0,
+  "ExplodableDebrisCount": 8,
+  "SeverableDebris": "03E252:Fallout4.esm",
+  "SeverableImpactDataSet": "01F82A:Fallout4.esm",
+  "ExplodableExplosion": "054A73:Fallout4.esm",
+  "ExplodableDebris": "03E252:Fallout4.esm",
+  "ExplodableImpactDataSet": "01F82A:Fallout4.esm",
+  "OrientationLimitsPitch": 90.0,
+  "OrientationLimitsRoll": 90.0,
+  "SkeletalModel": {
+    "Male": {
+      "MutagenObjectType": "SimpleModel",
+      "File": "actors\\Character\\CharacterAssets\\skeleton.nif",
+      "Data": "0x0400000000000000000000000000000000000000"
+    },
+    "Female": {
+      "MutagenObjectType": "SimpleModel",
+      "File": "actors\\Character\\CharacterAssets\\skeleton.nif",
+      "Data": "0x0400000000000000000000000000000000000000"
+    }
+  },
+  "MovementTypeNames": [
+    "BLDO",
+    "RUN1",
+    "SNEK",
+    "SWIM",
+    "WALK"
+  ],
+  "Voices": {
+    "Male": "013AE8:Fallout4.esm",
+    "Female": "013AE9:Fallout4.esm"
+  },
+  "DefaultHairColors": {
+    "Male": "0A0439:Fallout4.esm",
+    "Female": "0A0439:Fallout4.esm"
+  },
+  "NumberOfTintsInList": 1237,
+  "FacegenMainClamp": 5.0,
+  "FacegenFaceClamp": 3.0,
+  "Attacks": [
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "StrikeAngle": 50.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeattackBackStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "Flags": [
+          "BashAttack"
+        ],
+        "StrikeAngle": 50.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeAttackBashStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeAttackBayonet"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "Flags": [
+          "RotatingAttack"
+        ],
+        "AttackAngle": -180.0,
+        "StrikeAngle": 50.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeattackBehindStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "StrikeAngle": 50.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeattackForwardStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "Flags": [
+          "PowerAttack"
+        ],
+        "StrikeAngle": 50.0,
+        "RecoveryTime": 1.0,
+        "ActionPointsMult": 0.25
+      },
+      "AttackEvent": "meleeAttackGun"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeAttackGunSynth"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "StrikeAngle": 50.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeattackLeftStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeattackParalyzingStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.5,
+        "Chance": 1.0,
+        "Flags": [
+          "PowerAttack"
+        ],
+        "StrikeAngle": 50.0,
+        "ActionPointsMult": 1.0,
+        "StaggerOffset": 1
+      },
+      "AttackEvent": "meleeattackPowerBackStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.5,
+        "Chance": 1.0,
+        "Flags": [
+          "PowerAttack"
+        ],
+        "StrikeAngle": 50.0,
+        "ActionPointsMult": 1.0,
+        "StaggerOffset": 1
+      },
+      "AttackEvent": "meleeAttackPowerForwardShortStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.5,
+        "Chance": 1.0,
+        "Flags": [
+          "PowerAttack"
+        ],
+        "StrikeAngle": 50.0,
+        "ActionPointsMult": 1.0,
+        "StaggerOffset": 1
+      },
+      "AttackEvent": "meleeAttackPowerForwardStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Flags": [
+          "PowerAttack"
+        ],
+        "StrikeAngle": 50.0,
+        "RecoveryTime": 6.0,
+        "ActionPointsMult": 1.0,
+        "StaggerOffset": 1
+      },
+      "AttackEvent": "meleeAttackPowerGun"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.5,
+        "Chance": 1.0,
+        "Flags": [
+          "PowerAttack"
+        ],
+        "StrikeAngle": 50.0,
+        "ActionPointsMult": 1.0,
+        "StaggerOffset": 1
+      },
+      "AttackEvent": "meleeattackPowerLeftStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.5,
+        "Chance": 1.0,
+        "Flags": [
+          "PowerAttack"
+        ],
+        "StrikeAngle": 50.0,
+        "ActionPointsMult": 1.0,
+        "StaggerOffset": 1
+      },
+      "AttackEvent": "meleeattackPowerRightStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.5,
+        "Chance": 1.0,
+        "Flags": [
+          "PowerAttack"
+        ],
+        "StrikeAngle": 50.0,
+        "ActionPointsMult": 1.0,
+        "StaggerOffset": 1
+      },
+      "AttackEvent": "meleeattackPowerSneakStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.5,
+        "Chance": 1.0,
+        "Flags": [
+          "PowerAttack"
+        ],
+        "StrikeAngle": 50.0,
+        "ActionPointsMult": 1.0,
+        "StaggerOffset": 1
+      },
+      "AttackEvent": "meleeattackPowerStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "Flags": [
+          "ContinuousAttack"
+        ],
+        "StrikeAngle": 50.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeattackRightStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "Flags": [
+          "ContinuousAttack"
+        ],
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeattackRipperSneakStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "Flags": [
+          "ContinuousAttack"
+        ],
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeAttackRipperStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Flags": [
+          "ContinuousAttack"
+        ],
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeAttackShredder"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "StrikeAngle": 50.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeattackSneakStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.5,
+        "Chance": 1.0,
+        "Flags": [
+          "PowerAttack"
+        ],
+        "StrikeAngle": 90.0,
+        "ActionPointsMult": 0.5,
+        "StaggerOffset": 1
+      },
+      "AttackEvent": "meleeattackSprintStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "StrikeAngle": 50.0,
+        "RecoveryTime": 3.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeattackStart"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.5,
+        "Chance": 1.0,
+        "Flags": [
+          "PowerAttack"
+        ],
+        "StrikeAngle": 50.0,
+        "ActionPointsMult": 1.0,
+        "StaggerOffset": 1
+      },
+      "AttackEvent": "meleeattackStartPower"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "StrikeAngle": 50.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeAttackStartStagger"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "MeleeBaseState to BerserkEnter.hkt"
+    }
+  ],
+  "BodyData": {
+    "Male": {
+      "Index": "BodyTexture",
+      "Model": {
+        "File": "Actors\\Character\\UpperBodyHumanMale.egt",
+        "Data": "0x0400000000000000000000000000000000000000"
+      }
+    },
+    "Female": {
+      "Index": "BodyTexture",
+      "Model": {
+        "File": "Actors\\Character\\UpperBodyHumanFemale.egt",
+        "Data": "0x0400000000000000000000000000000000000000"
+      }
+    }
+  },
+  "BodyPartData": "017AD4:Fallout4.esm",
+  "BehaviorGraph": {
+    "Male": {
+      "File": "actors\\Character\\RaiderProject.hkx",
+      "Data": "0x0400000000000000000000000000000000000000"
+    },
+    "Female": {
+      "File": "actors\\Character\\RaiderProject.hkx",
+      "Data": "0x0400000000000000000000000000000000000000"
+    }
+  },
+  "ImpactMaterialType": "022954:Fallout4.esm",
+  "MeatCapTextureSet": "064110:Fallout4.esm",
+  "CollarTextureSet": "0B30B2:Fallout4.esm",
+  "SoundOpenCorpse": "03DE35:Fallout4.esm",
+  "SoundCloseCorpse": "03DE39:Fallout4.esm",
+  "BipedObjects": [
+    {
+      "Key": "HairTop",
+      "Value": {
+        "Name": "Hair Top",
+        "Conditions": "00036C:Fallout4.esm"
+      }
+    },
+    {
+      "Key": "HairLong",
+      "Value": {
+        "Name": "Hair Long",
+        "Conditions": "00036C:Fallout4.esm"
+      }
+    },
+    {
+      "Key": "FaceGenHead",
+      "Value": {
+        "Name": "FaceGen Head",
+        "Conditions": "00036C:Fallout4.esm"
+      }
+    },
+    {
+      "Key": "Body",
+      "Value": {
+        "Name": "BODY"
+      }
+    },
+    {
+      "Key": "LeftHand",
+      "Value": {
+        "Name": "L Hand"
+      }
+    },
+    {
+      "Key": "RightHand",
+      "Value": {
+        "Name": "R Hand"
+      }
+    },
+    {
+      "Key": "TorsoUnderArmor",
+      "Value": {
+        "Name": "[U] Torso",
+        "Conditions": "00036D:Fallout4.esm"
+      }
+    },
+    {
+      "Key": "LeftArmUnderArmor",
+      "Value": {
+        "Name": "[U] L Arm",
+        "Conditions": "00036E:Fallout4.esm"
+      }
+    },
+    {
+      "Key": "RightArmUnderArmor",
+      "Value": {
+        "Name": "[U] R Arm",
+        "Conditions": "00036F:Fallout4.esm"
+      }
+    },
+    {
+      "Key": "LeftLegUnderArmor",
+      "Value": {
+        "Name": "[U] L Leg",
+        "Conditions": "000370:Fallout4.esm"
+      }
+    },
+    {
+      "Key": "RightLegUnderArmor",
+      "Value": {
+        "Name": "[U] R Leg",
+        "Conditions": "000371:Fallout4.esm"
+      }
+    },
+    {
+      "Key": "TorsoArmor",
+      "Value": {
+        "Name": "[A] Torso",
+        "Conditions": "00036D:Fallout4.esm"
+      }
+    },
+    {
+      "Key": "LeftArmArmor",
+      "Value": {
+        "Name": "[A] L Arm",
+        "Conditions": "00036E:Fallout4.esm"
+      }
+    },
+    {
+      "Key": "RightArmArmor",
+      "Value": {
+        "Name": "[A] R Arm",
+        "Conditions": "00036F:Fallout4.esm"
+      }
+    },
+    {
+      "Key": "LeftLegArmor",
+      "Value": {
+        "Name": "[A] L Leg",
+        "Conditions": "000370:Fallout4.esm"
+      }
+    },
+    {
+      "Key": "RightLegArmor",
+      "Value": {
+        "Name": "[A] R Leg",
+        "Conditions": "000371:Fallout4.esm"
+      }
+    },
+    {
+      "Key": "Headband",
+      "Value": {
+        "Name": "Headband"
+      }
+    },
+    {
+      "Key": "Eyes",
+      "Value": {
+        "Name": "Eyes",
+        "Conditions": "00036C:Fallout4.esm"
+      }
+    },
+    {
+      "Key": "Beard",
+      "Value": {
+        "Name": "Beard"
+      }
+    },
+    {
+      "Key": "Mouth",
+      "Value": {
+        "Name": "Mouth"
+      }
+    },
+    {
+      "Key": "Neck",
+      "Value": {
+        "Name": "Neck"
+      }
+    },
+    {
+      "Key": "Ring",
+      "Value": {
+        "Name": "Ring"
+      }
+    },
+    {
+      "Key": "Scalp",
+      "Value": {
+        "Name": "Scalp"
+      }
+    },
+    {
+      "Key": "Decapitation",
+      "Value": {
+        "Name": "Decapitation"
+      }
+    },
+    {
+      "Key": "Unnamed54",
+      "Value": {
+        "Name": ""
+      }
+    },
+    {
+      "Key": "Unnamed55",
+      "Value": {
+        "Name": ""
+      }
+    },
+    {
+      "Key": "Unnamed56",
+      "Value": {
+        "Name": ""
+      }
+    },
+    {
+      "Key": "Unnamed57",
+      "Value": {
+        "Name": ""
+      }
+    },
+    {
+      "Key": "Unnamed58",
+      "Value": {
+        "Name": ""
+      }
+    },
+    {
+      "Key": "Shield",
+      "Value": {
+        "Name": "Shield"
+      }
+    },
+    {
+      "Key": "Pipboy",
+      "Value": {
+        "Name": "Pipboy"
+      }
+    },
+    {
+      "Key": "FX",
+      "Value": {
+        "Name": "FX"
+      }
+    }
+  ],
+  "EquipmentFlags": [
+    "HandToHand",
+    "OneHandSword",
+    "OneHandDagger",
+    "OneHandAxe",
+    "OneHandMace",
+    "TwoHandSword",
+    "TwoHandAxe",
+    "Bow",
+    "Staff",
+    "Gun",
+    "Grenade",
+    "Mine",
+    "Spell",
+    "Shield",
+    "Torch"
+  ],
+  "EquipmentSlots": [
+    {
+      "Slot": "013F42:Fallout4.esm"
+    },
+    {
+      "Slot": "013F43:Fallout4.esm"
+    },
+    {
+      "Slot": "046AAC:Fallout4.esm"
+    },
+    {
+      "Slot": "035698:Fallout4.esm"
+    }
+  ],
+  "UnarmedWeapon": "0C2C27:Fallout4.esm",
+  "FaceFxPhonemes": {
+    "Aah_LipBigAah": {
+      "Name": "Aah",
+      "EY": 0.6,
+      "AE": 0.8,
+      "AA": 1.0,
+      "AW": 0.2,
+      "AH": 0.8,
+      "AO": 0.1,
+      "Y": 0.2,
+      "HH": 0.6,
+      "G": 0.4
+    },
+    "BigAah_LipDST": {
+      "Name": "BigAah",
+      "OW": 0.8,
+      "UH": 0.5,
+      "AX": 0.8
+    },
+    "BMP_LipEee": {
+      "Name": "BMP",
+      "M": 1.0,
+      "B": 1.0,
+      "P": 0.9
+    },
+    "ChJSh_LipFV": {
+      "Name": "ChJSh",
+      "SH": 0.8,
+      "ZH": 0.7,
+      "JH": 1.0,
+      "G": 0.3,
+      "CH": 1.0
+    },
+    "DST_LipK": {
+      "Name": "DST",
+      "S": 0.9,
+      "Z": 0.8,
+      "DH": 0.2,
+      "D": 1.0,
+      "T": 0.8
+    },
+    "Eee_LipL": {
+      "Name": "Eee",
+      "IY": 1.0,
+      "IH": 0.2,
+      "EY": 0.3,
+      "AY": 0.2,
+      "OY": 0.3,
+      "Y": 0.4
+    },
+    "Eh_LipR": {
+      "Name": "Eh",
+      "IH": 0.7,
+      "EH": 1.0
+    },
+    "FV_LipTh": {
+      "Name": "FV",
+      "F": 0.8,
+      "V": 1.0
+    },
+    "I": {
+      "Name": "I",
+      "AY": 0.8,
+      "ER": 0.5,
+      "Y": 0.4
+    },
+    "K": {
+      "Name": "K",
+      "K": 1.0
+    },
+    "N": {
+      "Name": "N",
+      "N": 1.0,
+      "NG": 0.9,
+      "L": 0.6
+    },
+    "Oh": {
+      "Name": "Oh",
+      "AW": 0.6,
+      "AH": 0.2,
+      "AO": 0.5,
+      "OY": 0.6,
+      "OW": 0.2,
+      "UH": 0.2
+    },
+    "OohQ": {
+      "Name": "OohQ",
+      "UW": 1.0
+    },
+    "R": {
+      "Name": "R",
+      "ER": 0.3,
+      "R": 1.0
+    },
+    "Th": {
+      "Name": "Th",
+      "TH": 1.0,
+      "DH": 0.8,
+      "L": 0.2
+    },
+    "W": {
+      "Name": "W",
+      "AO": 0.2,
+      "W": 1.0
+    },
+    "Unknowns": [
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      }
+    ]
+  },
+  "HeadData": {
+    "Male": {
+      "HeadParts": [
+        {
+          "Number": 0,
+          "Head": "051631:Fallout4.esm"
+        },
+        {
+          "Number": 1,
+          "Head": "11D802:Fallout4.esm"
+        },
+        {
+          "Number": 2,
+          "Head": "11D804:Fallout4.esm"
+        },
+        {
+          "Number": 3,
+          "Head": "11E7B0:Fallout4.esm"
+        },
+        {
+          "Number": 4,
+          "Head": "179620:Fallout4.esm"
+        }
+      ],
+      "AvailableHairColors": [
+        "0A0439:Fallout4.esm",
+        "0A042D:Fallout4.esm",
+        "0A042F:Fallout4.esm",
+        "0A042E:Fallout4.esm",
+        "0A042C:Fallout4.esm",
+        "0A0431:Fallout4.esm",
+        "19EE5A:Fallout4.esm",
+        "19EE5B:Fallout4.esm",
+        "19EE5C:Fallout4.esm",
+        "19EE5D:Fallout4.esm",
+        "19EE5E:Fallout4.esm",
+        "19EE5F:Fallout4.esm",
+        "19EE60:Fallout4.esm",
+        "19EE61:Fallout4.esm",
+        "19EE62:Fallout4.esm",
+        "19EE63:Fallout4.esm",
+        "19EE64:Fallout4.esm",
+        "19EE65:Fallout4.esm",
+        "19EE66:Fallout4.esm",
+        "19EE67:Fallout4.esm",
+        "19EE68:Fallout4.esm",
+        "19EE69:Fallout4.esm"
+      ],
+      "FaceDetails": [
+        "11D7FF:Fallout4.esm"
+      ],
+      "DefaultFaceTexture": "11D7FF:Fallout4.esm",
+      "TintLayers": [
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Brows"
+          },
+          "Options": [
+            {
+              "Slot": "Brows",
+              "Index": 1156,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "MaleBrows1"
+              },
+              "Flags": [
+                "OnOffOnly"
+              ],
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\ChildMaleBrow01_d.DDS",
+                "Actors\\Character\\Character Assets\\FaceDetails\\ChildMaleBrow01_n.DDS",
+                ""
+              ],
+              "Default": 1.0
+            },
+            {
+              "Slot": "Brows",
+              "Index": 1208,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "MaleBrows2"
+              },
+              "Flags": [
+                "OnOffOnly"
+              ],
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\ChildMaleBrow02_d.DDS",
+                "Actors\\Character\\Character Assets\\FaceDetails\\ChildMaleBrow02_n.DDS",
+                ""
+              ]
+            },
+            {
+              "Slot": "Brows",
+              "Index": 1209,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "MaleBrows3"
+              },
+              "Flags": [
+                "OnOffOnly"
+              ],
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\ChildMaleBrow03_d.DDS",
+                "Actors\\Character\\Character Assets\\FaceDetails\\ChildMaleBrow03_n.DDS",
+                ""
+              ]
+            },
+            {
+              "Slot": "Brows",
+              "Index": 1210,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "MaleBrows4"
+              },
+              "Flags": [
+                "OnOffOnly"
+              ],
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\ChildMaleBrow04_d.DDS",
+                "Actors\\Character\\Character Assets\\FaceDetails\\ChildMaleBrow04_n.DDS",
+                ""
+              ]
+            }
+          ],
+          "CategoryIndex": 0
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Scars"
+          },
+          "Options": [
+            {
+              "Slot": "Scars",
+              "Index": 1162,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Scar1"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar1_d.dds",
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar1_n.DDS",
+                ""
+              ]
+            },
+            {
+              "Slot": "Scars",
+              "Index": 1163,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Scar2"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar2_d.dds",
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar2_n.DDS",
+                ""
+              ]
+            },
+            {
+              "Slot": "Scars",
+              "Index": 1164,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Scar3"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar3_d.dds",
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar3_n.DDS",
+                ""
+              ]
+            },
+            {
+              "Slot": "Scars",
+              "Index": 1165,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Scar4"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar4_d.dds",
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar4_n.DDS",
+                ""
+              ]
+            },
+            {
+              "Slot": "Scars",
+              "Index": 1166,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Scar5"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar5_d.dds",
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar5_n.DDS",
+                ""
+              ]
+            }
+          ],
+          "CategoryIndex": 0
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Dirt"
+          },
+          "Options": [
+            {
+              "Slot": "Dirt",
+              "Index": 1172,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Dirt1"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\TintMasks\\Dirt1.dds"
+              ],
+              "TemplateColors": [
+                {
+                  "Color": "0E6E16:Fallout4.esm",
+                  "TemplateIndex": 1173
+                }
+              ],
+              "Default": 0.0
+            },
+            {
+              "Slot": "Dirt",
+              "Index": 1174,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Dirt2"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\TintMasks\\Dirt2.dds"
+              ],
+              "TemplateColors": [
+                {
+                  "Color": "0E6E16:Fallout4.esm",
+                  "TemplateIndex": 1175
+                }
+              ],
+              "Default": 0.0
+            },
+            {
+              "Slot": "Dirt",
+              "Index": 1176,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Dirt3"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\TintMasks\\Dirt3.dds"
+              ],
+              "TemplateColors": [
+                {
+                  "Color": "0E6E16:Fallout4.esm",
+                  "TemplateIndex": 1177
+                }
+              ],
+              "Default": 0.0
+            },
+            {
+              "Slot": "Dirt",
+              "Index": 1178,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Dirt4"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\TintMasks\\Dirt4.dds"
+              ],
+              "TemplateColors": [
+                {
+                  "Color": "0E6E16:Fallout4.esm",
+                  "TemplateIndex": 1179
+                }
+              ],
+              "Default": 0.0
+            },
+            {
+              "Slot": "Dirt",
+              "Index": 1180,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Dirt5"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\TintMasks\\Dirt5.dds"
+              ],
+              "TemplateColors": [
+                {
+                  "Color": "0E6E16:Fallout4.esm",
+                  "TemplateIndex": 1181
+                }
+              ],
+              "Default": 0.0
+            }
+          ],
+          "CategoryIndex": 0
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "FaceDetails"
+          },
+          "Options": [
+            {
+              "Slot": "FaceDetail",
+              "Index": 1193,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Freckles1"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Freckles1_d.dds",
+                "",
+                ""
+              ]
+            },
+            {
+              "Slot": "FaceDetail",
+              "Index": 1194,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Pocks1"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Pocks1_d.dds",
+                "Actors\\Character\\Character Assets\\FaceDetails\\Pocks1_n.DDS",
+                ""
+              ]
+            },
+            {
+              "Slot": "FaceDetail",
+              "Index": 1196,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "CraterFace1"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\CraterFace1_d.dds",
+                "Actors\\Character\\Character Assets\\FaceDetails\\CraterFace1_n.DDS",
+                ""
+              ]
+            },
+            {
+              "Slot": "FaceDetail",
+              "Index": 1198,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Splotchy1"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Splochy1_d.DDS",
+                "",
+                ""
+              ]
+            },
+            {
+              "Slot": "FaceDetail",
+              "Index": 1199,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Splotchy2"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Splochy2_d.DDS",
+                "",
+                ""
+              ]
+            },
+            {
+              "Slot": "FaceDetail",
+              "Index": 1200,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Splotchy3"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Splochy3_d.DDS",
+                "",
+                ""
+              ]
+            },
+            {
+              "Slot": "FaceDetail",
+              "Index": 1201,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Splotchy4"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Splochy4_d.DDS",
+                "",
+                ""
+              ]
+            },
+            {
+              "Slot": "FaceDetail",
+              "Index": 1202,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Splotchy5"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Splochy5_d.DDS",
+                "",
+                ""
+              ]
+            }
+          ],
+          "CategoryIndex": 0
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "SkinTints"
+          },
+          "Options": [
+            {
+              "Slot": "SkinTone",
+              "Index": 1214,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Skin tone"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
+              ],
+              "TemplateColors": [
+                {
+                  "Color": "0E6E17:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1215,
+                  "BlendOperation": "SoftLight"
+                },
+                {
+                  "Color": "0E6E0A:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1216
+                },
+                {
+                  "Color": "0E6E08:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1217
+                },
+                {
+                  "Color": "026956:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1218
+                },
+                {
+                  "Color": "026A5B:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1219
+                },
+                {
+                  "Color": "053999:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1220
+                },
+                {
+                  "Color": "099D12:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1221
+                },
+                {
+                  "Color": "099D13:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1222
+                },
+                {
+                  "Color": "099D16:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1223
+                },
+                {
+                  "Color": "099D1F:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1224
+                }
+              ],
+              "Default": 0.0
+            }
+          ],
+          "CategoryIndex": 0
+        }
+      ],
+      "MorphGroups": [
+        {
+          "Name": "Eyes",
+          "MorphPresets": [],
+          "UnknownMPPK": "0xFFFF",
+          "UnknownMPGS": "0x4634EF364734EF36110000004534EF364B34EF364C34EF364D34EF364E34EF3611000000"
+        },
+        {
+          "Name": "Brow",
+          "MorphPresets": [],
+          "UnknownMPPK": "0xFFFF",
+          "UnknownMPGS": "0x0B000000"
+        },
+        {
+          "Name": "Nose",
+          "MorphPresets": [],
+          "UnknownMPPK": "0xFFFF",
+          "UnknownMPGS": "0x5134EF365234EF365334EF365434EF367434EF367534EF36"
+        },
+        {
+          "Name": "UniqueNPC",
+          "MorphPresets": [],
+          "UnknownMPPK": "0xFFFF"
+        },
+        {
+          "Name": "Ears",
+          "MorphPresets": [],
+          "UnknownMPPK": "0xFFFF",
+          "UnknownMPGS": "0x5534EF365634EF36"
+        },
+        {
+          "Name": "Cheeks",
+          "MorphPresets": [],
+          "UnknownMPPK": "0xFFFF",
+          "UnknownMPGS": "0x5C34EF367034EF367134EF36"
+        },
+        {
+          "Name": "Jaw",
+          "MorphPresets": [],
+          "UnknownMPPK": "0xFFFF",
+          "UnknownMPGS": "0x6034EF367234EF367334EF36"
+        },
+        {
+          "Name": "Mouth",
+          "MorphPresets": [],
+          "UnknownMPPK": "0xFFFF",
+          "UnknownMPGS": "0x6234EF366334EF366434EF366534EF366634EF367634EF367734EF367834EF36"
+        },
+        {
+          "Name": "Chin",
+          "MorphPresets": [],
+          "UnknownMPPK": "0xFFFF",
+          "UnknownMPGS": "0x6C34EF366D34EF366E34EF36"
+        }
+      ]
+    },
+    "Female": {
+      "HeadParts": [
+        {
+          "Number": 0,
+          "Head": "0CFB4E:Fallout4.esm"
+        },
+        {
+          "Number": 1,
+          "Head": "11D804:Fallout4.esm"
+        },
+        {
+          "Number": 2,
+          "Head": "11D801:Fallout4.esm"
+        },
+        {
+          "Number": 3,
+          "Head": "11E7B1:Fallout4.esm"
+        },
+        {
+          "Number": 4,
+          "Head": "179D22:Fallout4.esm"
+        }
+      ],
+      "AvailableHairColors": [
+        "0A0439:Fallout4.esm",
+        "0A042D:Fallout4.esm",
+        "0A042F:Fallout4.esm",
+        "0A042E:Fallout4.esm",
+        "0A042C:Fallout4.esm",
+        "0A0431:Fallout4.esm",
+        "19EE5A:Fallout4.esm",
+        "19EE5B:Fallout4.esm",
+        "19EE5C:Fallout4.esm",
+        "19EE5D:Fallout4.esm",
+        "19EE5E:Fallout4.esm",
+        "19EE5F:Fallout4.esm",
+        "19EE60:Fallout4.esm",
+        "19EE61:Fallout4.esm",
+        "19EE62:Fallout4.esm",
+        "19EE63:Fallout4.esm",
+        "19EE64:Fallout4.esm",
+        "19EE65:Fallout4.esm",
+        "19EE66:Fallout4.esm",
+        "19EE67:Fallout4.esm",
+        "19EE68:Fallout4.esm",
+        "19EE69:Fallout4.esm"
+      ],
+      "FaceDetails": [
+        "11D800:Fallout4.esm"
+      ],
+      "DefaultFaceTexture": "11D800:Fallout4.esm",
+      "TintLayers": [
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Brows"
+          },
+          "Options": [
+            {
+              "Slot": "Brows",
+              "Index": 1161,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "FemaleBrows1"
+              },
+              "Flags": [
+                "OnOffOnly"
+              ],
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\ChildFemaleBrow01_d.DDS",
+                "Actors\\Character\\Character Assets\\FaceDetails\\ChildFemaleBrow01_n.DDS",
+                ""
+              ],
+              "Default": 1.0
+            },
+            {
+              "Slot": "Brows",
+              "Index": 1211,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "FemaleBrows2"
+              },
+              "Flags": [
+                "OnOffOnly"
+              ],
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\ChildFemaleBrow02_d.DDS",
+                "Actors\\Character\\Character Assets\\FaceDetails\\ChildFemaleBrow02_n.DDS",
+                ""
+              ]
+            },
+            {
+              "Slot": "Brows",
+              "Index": 1212,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "FemaleBrows3"
+              },
+              "Flags": [
+                "OnOffOnly"
+              ],
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\ChildFemaleBrow03_d.DDS",
+                "Actors\\Character\\Character Assets\\FaceDetails\\ChildFemaleBrow03_n.DDS",
+                ""
+              ]
+            },
+            {
+              "Slot": "Brows",
+              "Index": 1213,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "FemaleBrows4"
+              },
+              "Flags": [
+                "OnOffOnly"
+              ],
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\ChildFemaleBrow04_d.DDS",
+                "Actors\\Character\\Character Assets\\FaceDetails\\ChildFemaleBrow04_n.DDS",
+                ""
+              ]
+            }
+          ],
+          "CategoryIndex": 0
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Scars"
+          },
+          "Options": [
+            {
+              "Slot": "Scars",
+              "Index": 1167,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Scar1"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar1_d.dds",
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar1_n.DDS",
+                ""
+              ]
+            },
+            {
+              "Slot": "Scars",
+              "Index": 1168,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Scar2"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar2_d.dds",
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar2_n.DDS",
+                ""
+              ]
+            },
+            {
+              "Slot": "Scars",
+              "Index": 1169,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Scar3"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar3_d.dds",
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar3_n.DDS",
+                ""
+              ]
+            },
+            {
+              "Slot": "Scars",
+              "Index": 1170,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Scar4"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar4_d.dds",
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar4_n.DDS",
+                ""
+              ]
+            },
+            {
+              "Slot": "Scars",
+              "Index": 1171,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Scar5"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar5_d.dds",
+                "Actors\\Character\\Character Assets\\FaceDetails\\Scar5_n.DDS",
+                ""
+              ]
+            }
+          ],
+          "CategoryIndex": 0
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Dirt"
+          },
+          "Options": [
+            {
+              "Slot": "Dirt",
+              "Index": 1182,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Dirt1"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\TintMasks\\Dirt1.dds"
+              ],
+              "TemplateColors": [
+                {
+                  "Color": "0E6E16:Fallout4.esm",
+                  "TemplateIndex": 1183
+                }
+              ],
+              "Default": 0.0
+            },
+            {
+              "Slot": "Dirt",
+              "Index": 1184,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Dirt2"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\TintMasks\\Dirt2.dds"
+              ],
+              "TemplateColors": [
+                {
+                  "Color": "0E6E16:Fallout4.esm",
+                  "TemplateIndex": 1185
+                }
+              ],
+              "Default": 0.0
+            },
+            {
+              "Slot": "Dirt",
+              "Index": 1186,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Dirt3"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\TintMasks\\Dirt3.dds"
+              ],
+              "TemplateColors": [
+                {
+                  "Color": "0E6E16:Fallout4.esm",
+                  "TemplateIndex": 1187
+                }
+              ],
+              "Default": 0.0
+            },
+            {
+              "Slot": "Dirt",
+              "Index": 1188,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Dirt4"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\TintMasks\\Dirt4.dds"
+              ],
+              "TemplateColors": [
+                {
+                  "Color": "0E6E16:Fallout4.esm",
+                  "TemplateIndex": 1189
+                }
+              ],
+              "Default": 0.0
+            },
+            {
+              "Slot": "Dirt",
+              "Index": 1190,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Dirt5"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\TintMasks\\Dirt5.dds"
+              ],
+              "TemplateColors": [
+                {
+                  "Color": "0E6E16:Fallout4.esm",
+                  "TemplateIndex": 1191
+                }
+              ],
+              "Default": 0.0
+            }
+          ],
+          "CategoryIndex": 0
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "FaceDetails"
+          },
+          "Options": [
+            {
+              "Slot": "FaceDetail",
+              "Index": 1192,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Freckles1"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Freckles1_d.dds",
+                "",
+                ""
+              ]
+            },
+            {
+              "Slot": "FaceDetail",
+              "Index": 1195,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Pocks1"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Pocks1_d.dds",
+                "Actors\\Character\\Character Assets\\FaceDetails\\Pocks1_n.DDS",
+                ""
+              ]
+            },
+            {
+              "Slot": "FaceDetail",
+              "Index": 1197,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "CraterFace1"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\CraterFace1_d.dds",
+                "Actors\\Character\\Character Assets\\FaceDetails\\CraterFace1_n.DDS",
+                ""
+              ]
+            },
+            {
+              "Slot": "FaceDetail",
+              "Index": 1203,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Splotchy1"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Splochy1_d.DDS",
+                "",
+                ""
+              ]
+            },
+            {
+              "Slot": "FaceDetail",
+              "Index": 1204,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Splotchy2"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Splochy2_d.DDS",
+                "",
+                ""
+              ]
+            },
+            {
+              "Slot": "FaceDetail",
+              "Index": 1205,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Splotchy3"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Splochy3_d.DDS",
+                "",
+                ""
+              ]
+            },
+            {
+              "Slot": "FaceDetail",
+              "Index": 1206,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Splotchy4"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Splochy4_d.DDS",
+                "",
+                ""
+              ]
+            },
+            {
+              "Slot": "FaceDetail",
+              "Index": 1207,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Splotchy5"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\FaceDetails\\Splochy5_d.DDS",
+                "",
+                ""
+              ]
+            }
+          ],
+          "CategoryIndex": 0
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "SkinTints"
+          },
+          "Options": [
+            {
+              "Slot": "SkinTone",
+              "Index": 1225,
+              "Name": {
+                "TargetLanguage": "English",
+                "Value": "Skin tone"
+              },
+              "Textures": [
+                "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
+              ],
+              "TemplateColors": [
+                {
+                  "Color": "0E6E17:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1227,
+                  "BlendOperation": "SoftLight"
+                },
+                {
+                  "Color": "0E6E0A:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1229
+                },
+                {
+                  "Color": "0E6E08:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1230
+                },
+                {
+                  "Color": "026956:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1231
+                },
+                {
+                  "Color": "026A5B:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1232
+                },
+                {
+                  "Color": "053999:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1233
+                },
+                {
+                  "Color": "099D12:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1234
+                },
+                {
+                  "Color": "099D13:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1235
+                },
+                {
+                  "Color": "099D16:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1236
+                },
+                {
+                  "Color": "099D1F:Fallout4.esm",
+                  "Alpha": 1.0,
+                  "TemplateIndex": 1237
+                }
+              ],
+              "Default": 0.0
+            }
+          ],
+          "CategoryIndex": 0
+        }
+      ],
+      "MorphGroups": [
+        {
+          "Name": "Nose",
+          "MorphPresets": [],
+          "UnknownMPPK": "0xFFFF"
+        },
+        {
+          "Name": "Brow",
+          "MorphPresets": [],
+          "UnknownMPPK": "0xFFFF",
+          "UnknownMPGS": "0x0B000000090000000A000000"
+        },
+        {
+          "Name": "Eyes",
+          "MorphPresets": [],
+          "UnknownMPPK": "0xFFFF",
+          "UnknownMPGS": "0x1100000008000000"
+        },
+        {
+          "Name": "Lip",
+          "MorphPresets": [],
+          "UnknownMPPK": "0xFFFF",
+          "UnknownMPGS": "0x0F0000000E00000002000000"
+        }
+      ]
+    }
+  },
+  "SubgraphTemplateRace": "166729:Fallout4.esm",
+  "IdleChatterTimeMin": 15.0,
+  "IdleChatterTimeMax": 25.0,
+  "MorphValues": [
+    {
+      "Index": 11,
+      "MinName": "BrowLight",
+      "MaxName": "BrowHeavy"
+    },
+    {
+      "Index": 921646164,
+      "MinName": "NoseBridgeFlat",
+      "MaxName": "NoseBridgeForward"
+    },
+    {
+      "Index": 921646195,
+      "MaxName": "NeckFat"
+    },
+    {
+      "Index": 921646200,
+      "MinName": "Underbite",
+      "MaxName": "Overbite"
+    },
+    {
+      "Index": 921646190,
+      "MinName": "ChinNarrow",
+      "MaxName": "ChinWide"
+    },
+    {
+      "Index": 921646181,
+      "MinName": "LipTopThin",
+      "MaxName": "LipTopFull"
+    },
+    {
+      "Index": 921646166,
+      "MinName": "EarsSmall",
+      "MaxName": "EarsLarge"
+    },
+    {
+      "Index": 921646155,
+      "MinName": "EyesScaleDown",
+      "MaxName": "EyesScaleUp"
+    },
+    {
+      "Index": 2,
+      "MinName": "JawUp",
+      "MaxName": "JawDown"
+    },
+    {
+      "Index": 921646188,
+      "MinName": "ChinMoveDown",
+      "MaxName": "ChinMoveUp"
+    },
+    {
+      "Index": 921646193,
+      "MinName": "CheeksSunken",
+      "MaxName": "CheeksFat"
+    },
+    {
+      "Index": 921646199,
+      "MinName": "LipLowNarrow",
+      "MaxName": "LipLowWide"
+    },
+    {
+      "Index": 921646157,
+      "MinName": "EyesUpprLidDown",
+      "MaxName": "EyesUpprLidUp"
+    },
+    {
+      "Index": 921646150,
+      "MinName": "EyesMoveDown",
+      "MaxName": "EyesMoveUp"
+    },
+    {
+      "Index": 921646197,
+      "MaxName": "NoseFlare"
+    },
+    {
+      "Index": 921646179,
+      "MinName": "LipMoveIn",
+      "MaxName": "LipMoveOut"
+    },
+    {
+      "Index": 921646162,
+      "MinName": "NoseShort",
+      "MaxName": "NoseLong"
+    },
+    {
+      "Index": 921646194,
+      "MinName": "JawBack",
+      "MaxName": "JawForward"
+    },
+    {
+      "Index": 921646180,
+      "MinName": "LipNarrow",
+      "MaxName": "LipWide"
+    },
+    {
+      "Index": 10,
+      "MinName": "BrowIn",
+      "MaxName": "BrowOut"
+    },
+    {
+      "Index": 921646165,
+      "MinName": "EarsIn",
+      "MaxName": "EarsOut"
+    },
+    {
+      "Index": 921646189,
+      "MinName": "ChinBack",
+      "MaxName": "ChinForward"
+    },
+    {
+      "Index": 921646182,
+      "MinName": "LipTopNarrow",
+      "MaxName": "LipTopWide"
+    },
+    {
+      "Index": 921646192,
+      "MinName": "CheeksIn",
+      "MaxName": "CheeksOut"
+    },
+    {
+      "Index": 921646172,
+      "MinName": "CheeksDown",
+      "MaxName": "CheeksUp"
+    },
+    {
+      "Index": 8,
+      "MinName": "EyesMoveIn",
+      "MaxName": "EyesMoveOut"
+    },
+    {
+      "Index": 921646161,
+      "MinName": "NoseDown",
+      "MaxName": "NoseUp"
+    },
+    {
+      "Index": 921646151,
+      "MinName": "EyesIn",
+      "MaxName": "EyesOut"
+    },
+    {
+      "Index": 921646156,
+      "MinName": "EyesHoodThin",
+      "MaxName": "EyesHoodFat"
+    },
+    {
+      "Index": 921646176,
+      "MinName": "JawNarrow",
+      "MaxName": "JawWide"
+    },
+    {
+      "Index": 921646198,
+      "MinName": "LipLowThin",
+      "MaxName": "LipLowFull"
+    },
+    {
+      "Index": 15,
+      "MinName": "ChinMoveUp",
+      "MaxName": "ChinMoveDown"
+    },
+    {
+      "Index": 921646158,
+      "MinName": "EyesLowSunken",
+      "MaxName": "EyesLowFat"
+    },
+    {
+      "Index": 921646149,
+      "MinName": "EyesRotateDown",
+      "MaxName": "EyesRotateUp"
+    },
+    {
+      "Index": 921646163,
+      "MinName": "NoseNarrow",
+      "MaxName": "NoseWide"
+    },
+    {
+      "Index": 17,
+      "MinName": "EyesLowLidDown",
+      "MaxName": "EyesLowLidUp"
+    },
+    {
+      "Index": 14,
+      "MinName": "ChinThin",
+      "MaxName": "ChinWide"
+    },
+    {
+      "Index": 921646196,
+      "MaxName": "NoseBridgeWide"
+    },
+    {
+      "Index": 921646178,
+      "MinName": "LipMoveDown",
+      "MaxName": "LipMoveUp"
+    },
+    {
+      "Index": 9,
+      "MinName": "BrowDown",
+      "MaxName": "BrowUp"
+    }
+  ],
+  "MorphValuesLastIndex": 921646200,
+  "BoneData": {}
+}
