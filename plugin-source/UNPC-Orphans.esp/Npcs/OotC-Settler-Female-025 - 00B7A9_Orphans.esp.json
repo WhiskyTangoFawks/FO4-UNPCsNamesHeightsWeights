@@ -1,0 +1,197 @@
+{
+  "FormKey": "00B7A9:Orphans.esp",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "OotC-Settler-Female-025",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Female",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 5,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 2
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "8126",
+  "Unknown": 16256,
+  "Factions": [
+    {
+      "Faction": "0035DE:Fallout4.esm"
+    },
+    {
+      "Faction": "02E005:Fallout4.esm"
+    },
+    {
+      "Faction": "02F126:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "0337F3:Fallout4.esm"
+    },
+    {
+      "Faction": "062555:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "062556:Fallout4.esm"
+    },
+    {
+      "Faction": "0C8608:Fallout4.esm"
+    },
+    {
+      "Faction": "18B88A:Fallout4.esm"
+    }
+  ],
+  "Voice": "013AE9:Fallout4.esm",
+  "DefaultTemplate": "00E4F7:Orphans.esp",
+  "TemplateActors": {
+    "StatsTemplate": "00E4F7:Orphans.esp",
+    "FactionsTemplate": "00E4F7:Orphans.esp",
+    "SpellListTemplate": "00E4F7:Orphans.esp",
+    "AiDataTemplate": "00E4F7:Orphans.esp",
+    "AiPackagesTemplate": "00E4F7:Orphans.esp",
+    "BaseDataTemplate": "00E4F7:Orphans.esp",
+    "InventoryTemplate": "00E4F7:Orphans.esp",
+    "ScriptTemplate": "00E4F7:Orphans.esp",
+    "DefPackListTemplate": "00E4F7:Orphans.esp",
+    "AttackDataTemplate": "00E4F7:Orphans.esp",
+    "KeywordsTemplate": "00E4F7:Orphans.esp"
+  },
+  "Race": "11D83F:Fallout4.esm",
+  "Skin": "107FE0:Fallout4.esm",
+  "AttackRace": "11D83F:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "02332A:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "038A0B:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0098BA:Orphans.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "00E4FB:Orphans.esp",
+        "Count": 1
+      }
+    }
+  ],
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Packages": [
+    "023331:Fallout4.esm"
+  ],
+  "Keywords": [
+    "1B5CB8:Fallout4.esm"
+  ],
+  "Class": "01326B:Fallout4.esm",
+  "CalculatedHealth": 100,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HeadParts": [
+    "00913A:Orphans.esp",
+    "00913B:Orphans.esp"
+  ],
+  "HairColor": "0A0431:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.95,
+  "NAM7": 0.0,
+  "HeightMax": 1.05,
+  "Weight": {
+    "Thin": 0.02,
+    "Muscular": 0.62,
+    "Fat": 0.36
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "00E4FC:Orphans.esp",
+  "HeadTexture": "11D800:Fallout4.esm",
+  "TextureLighting": "#F7EFEE",
+  "Morphs": [
+    {
+      "Key": 2,
+      "Value": 0.5
+    },
+    {
+      "Key": 11,
+      "Value": 1.0
+    },
+    {
+      "Key": 9,
+      "Value": 0.9
+    },
+    {
+      "Key": 14,
+      "Value": 1.0
+    },
+    {
+      "Key": 10,
+      "Value": -0.52
+    },
+    {
+      "Key": 17,
+      "Value": 1.0
+    },
+    {
+      "Key": 15,
+      "Value": -1.0
+    },
+    {
+      "Key": 8,
+      "Value": 1.0
+    }
+  ],
+  "FacialMorphIntensity": 2.0,
+  "MajorFlags": [
+    "0x40000"
+  ]
+}
