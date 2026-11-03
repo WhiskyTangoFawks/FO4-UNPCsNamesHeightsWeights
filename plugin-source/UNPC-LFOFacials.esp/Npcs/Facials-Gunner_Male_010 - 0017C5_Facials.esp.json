@@ -1,0 +1,227 @@
+{
+  "FormKey": "0017C5:Facials.esp",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "Facials-Gunner_Male_010",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-22, -14, 0",
+    "Second": "22, 14, 128"
+  },
+  "Flags": [
+    "Respawn"
+  ],
+  "XpValueOffset": 21,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 14
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "8126",
+  "Unknown": 256,
+  "Factions": [
+    {
+      "Faction": "058303:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "0DE95D:Fallout4.esm",
+  "Voice": "083C7A:Fallout4.esm",
+  "DefaultTemplate": "0FD39B:Fallout4.esm",
+  "TemplateActors": {
+    "StatsTemplate": "0FD39B:Fallout4.esm",
+    "FactionsTemplate": "0FD39B:Fallout4.esm",
+    "SpellListTemplate": "0FD39B:Fallout4.esm",
+    "AiDataTemplate": "0FD39B:Fallout4.esm",
+    "AiPackagesTemplate": "0FD39B:Fallout4.esm",
+    "BaseDataTemplate": "0FD39B:Fallout4.esm",
+    "InventoryTemplate": "0FD39B:Fallout4.esm",
+    "ScriptTemplate": "0FD39B:Fallout4.esm",
+    "DefPackListTemplate": "0FD39B:Fallout4.esm",
+    "AttackDataTemplate": "0FD39B:Fallout4.esm",
+    "KeywordsTemplate": "0FD39B:Fallout4.esm"
+  },
+  "Race": "013746:Fallout4.esm",
+  "Skin": "0ADA90:Fallout4.esm",
+  "AttackRace": "013746:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "1C346F:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002CD:Fallout4.esm",
+      "Value": 30.0
+    },
+    {
+      "ActorValue": "0002CC:Fallout4.esm",
+      "Value": 15.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 110.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 5.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "04E351:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "05859B:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A6:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0FD39E:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "11003C:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "22D0F8:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsFriendsAndAllies",
+  "Class": "05F970:Fallout4.esm",
+  "CalculatedHealth": 100,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HeadParts": [
+    "0423AF:Fallout4.esm",
+    "0844A7:Fallout4.esm",
+    "11CCBD:Fallout4.esm",
+    "14108D:Fallout4.esm",
+    "141091:Fallout4.esm"
+  ],
+  "HairColor": "19EE66:Fallout4.esm",
+  "CombatStyle": "16CA4E:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.95,
+  "NAM7": 0.0,
+  "HeightMax": 1.025,
+  "Weight": {
+    "Thin": 0.14,
+    "Muscular": 0.68,
+    "Fat": 0.18
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "0FD39D:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#F7EFEE",
+  "FaceTintingLayers": [
+    {
+      "DataType": "Value",
+      "Index": 1194,
+      "Value": 1.0,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "ValueAndColor",
+      "Index": 1204,
+      "Value": 1.0,
+      "Color": "#00000000",
+      "TemplateColorIndex": 1202
+    },
+    {
+      "DataType": "Value",
+      "Index": 1348,
+      "Value": 1.0,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1358,
+      "Value": 1.0,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1392,
+      "Value": 1.0,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "ValueAndColor",
+      "Index": 1684,
+      "Value": 1.0,
+      "Color": "#00000000",
+      "TemplateColorIndex": 1809
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

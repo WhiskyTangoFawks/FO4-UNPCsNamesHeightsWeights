@@ -1,0 +1,313 @@
+{
+  "FormKey": "001789:Facials.esp",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "Facials-CoA_Female_008",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Female",
+    "Respawn"
+  ],
+  "XpValueOffset": 16,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 10
+  },
+  "CalcMinLevel": 1,
+  "CalcMaxLevel": 25,
+  "DispositionBase": 35,
+  "UseTemplateActors": "8126",
+  "Unknown": 256,
+  "Factions": [
+    {
+      "Faction": "02FB84:Fallout4.esm"
+    }
+  ],
+  "Voice": "02FB81:Fallout4.esm",
+  "DefaultTemplate": "1BBCBB:Fallout4.esm",
+  "TemplateActors": {
+    "StatsTemplate": "1BBCBB:Fallout4.esm",
+    "FactionsTemplate": "1BBCBB:Fallout4.esm",
+    "SpellListTemplate": "1BBCBB:Fallout4.esm",
+    "AiDataTemplate": "1BBCBB:Fallout4.esm",
+    "AiPackagesTemplate": "1BBCBB:Fallout4.esm",
+    "BaseDataTemplate": "1BBCBB:Fallout4.esm",
+    "InventoryTemplate": "1BBCBB:Fallout4.esm",
+    "ScriptTemplate": "1BBCBB:Fallout4.esm",
+    "DefPackListTemplate": "1BBCBB:Fallout4.esm",
+    "AttackDataTemplate": "1BBCBB:Fallout4.esm",
+    "KeywordsTemplate": "1BBCBB:Fallout4.esm"
+  },
+  "Race": "013746:Fallout4.esm",
+  "Skin": "0ADA90:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002CD:Fallout4.esm",
+      "Value": 30.0
+    },
+    {
+      "ActorValue": "0002CC:Fallout4.esm",
+      "Value": 15.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 240.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm",
+      "Value": 1.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 10.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "0585A4:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A6:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "188A73:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "1BBCBD:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "22D0F8:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "245F16:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsAllies",
+  "AggroRadiusBehaviorEnabled": true,
+  "AggroRadiusWarn": 1024,
+  "AggroRadiusWarnOrAttack": 512,
+  "AggroRadiusAttack": 128,
+  "Class": "1CD0A9:Fallout4.esm",
+  "CalculatedHealth": 100,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HeadParts": [
+    "04D0E9:Fallout4.esm",
+    "04D0EC:Fallout4.esm",
+    "0CFB3F:Fallout4.esm",
+    "0CFB4E:Fallout4.esm",
+    "0F159E:Fallout4.esm",
+    "14EC22:Fallout4.esm",
+    "14EC28:Fallout4.esm",
+    "1D7F9F:Fallout4.esm",
+    "1E6787:Fallout4.esm",
+    "1E6788:Fallout4.esm",
+    "1E6789:Fallout4.esm"
+  ],
+  "HairColor": "19EE60:Fallout4.esm",
+  "CombatStyle": "22140B:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.93,
+  "NAM7": 0.0,
+  "HeightMax": 1.025,
+  "Weight": {
+    "Thin": 0.95,
+    "Muscular": 0.04,
+    "Fat": 0.01
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "0E7474:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#6B6B7E",
+  "Morphs": [
+    {
+      "Key": 921646347,
+      "Value": 1.0
+    },
+    {
+      "Key": 921646551,
+      "Value": -0.44
+    },
+    {
+      "Key": 921646553,
+      "Value": -0.87
+    },
+    {
+      "Key": 921646708,
+      "Value": 1.0
+    },
+    {
+      "Key": 921646592,
+      "Value": 1.0
+    },
+    {
+      "Key": 921646576,
+      "Value": 1.0
+    },
+    {
+      "Key": 921646552,
+      "Value": -0.82
+    }
+  ],
+  "FaceTintingLayers": [
+    {
+      "DataType": "ValueAndColor",
+      "Index": 1168,
+      "Value": 1.0,
+      "Color": "#006B6B7E",
+      "TemplateColorIndex": 1286
+    },
+    {
+      "DataType": "ValueAndColor",
+      "Index": 1320,
+      "Value": 0.29,
+      "Color": "#00850505",
+      "TemplateColorIndex": 1328
+    },
+    {
+      "DataType": "Value",
+      "Index": 1729,
+      "Value": 1.0,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1735,
+      "Value": 1.0,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1740,
+      "Value": 1.0,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1758,
+      "Value": 1.0,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    }
+  ],
+  "FaceMorphs": [
+    {
+      "Index": 100000,
+      "Position": "0, 0.27, 0"
+    },
+    {
+      "Index": 100002,
+      "Position": "1, 0, -1"
+    },
+    {
+      "Index": 100003,
+      "Position": "0, 0.03, 0.38",
+      "Scale": -1.0
+    },
+    {
+      "Index": 100010,
+      "Position": "1, -0.25, -0.94",
+      "Scale": -1.0
+    },
+    {
+      "Index": 100014,
+      "Scale": -0.1
+    },
+    {
+      "Index": 100016,
+      "Position": "0.6, -0.1, 0",
+      "Rotation": "0, 0, 0.08",
+      "Scale": 0.19
+    },
+    {
+      "Index": 100019,
+      "Position": "0, -0.13, -0.35",
+      "Rotation": "0.29, 0, 0",
+      "Scale": 0.62
+    },
+    {
+      "Index": 100020,
+      "Scale": -0.2
+    },
+    {
+      "Index": 100021,
+      "Rotation": "0, 0, 0.91"
+    },
+    {
+      "Index": 100022,
+      "Scale": 0.41
+    },
+    {
+      "Index": 100023,
+      "Position": "0, 0.7, 0.37",
+      "Scale": -0.18
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}
