@@ -34,7 +34,7 @@
   "TemplateActors": {
     "FactionsTemplate": "03183A:Fallout4.esm",
     "SpellListTemplate": "03183A:Fallout4.esm",
-    "AiDataTemplate": "03183A:Fallout4.esm",
+    "AiDataTemplate": "9C2E08:LunarFalloutOverhaul.esp",
     "AiPackagesTemplate": "03183A:Fallout4.esm",
     "ScriptTemplate": "03183A:Fallout4.esm",
     "DefPackListTemplate": "03183A:Fallout4.esm",
