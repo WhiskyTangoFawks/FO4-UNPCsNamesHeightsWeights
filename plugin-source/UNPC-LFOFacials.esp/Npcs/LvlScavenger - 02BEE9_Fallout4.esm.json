@@ -1,0 +1,116 @@
+{
+  "FormKey": "02BEE9:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "LvlScavenger",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 1
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "6675",
+  "Unknown": 16603,
+  "Factions": [
+    {
+      "Faction": "0035DE:Fallout4.esm"
+    },
+    {
+      "Faction": "0342D0:Fallout4.esm"
+    },
+    {
+      "Faction": "035E9A:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "198846:Fallout4.esm"
+    }
+  ],
+  "DefaultTemplate": "02BEA0:Fallout4.esm",
+  "TemplateActors": {
+    "TraitTemplate": "040BDC:Facials.esp",
+    "StatsTemplate": "02BEA0:Fallout4.esm",
+    "SpellListTemplate": "02BEA0:Fallout4.esm",
+    "AiDataTemplate": "9C2E10:LunarFalloutOverhaul.esp",
+    "ScriptTemplate": "02BEA0:Fallout4.esm",
+    "AttackDataTemplate": "02BEA0:Fallout4.esm",
+    "KeywordsTemplate": "02BEA0:Fallout4.esm"
+  },
+  "Race": "2261A4:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "02332A:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "15A74F:LunarFalloutOverhaul.esp",
+        "Count": 1
+      }
+    }
+  ],
+  "Confidence": "Average",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Class": "20F487:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Scavenger"
+  },
+  "CalculatedHealth": 85,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.33333334,
+    "Muscular": 0.33333334,
+    "Fat": 0.33333334
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "1BE3F5:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#00000000",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}
