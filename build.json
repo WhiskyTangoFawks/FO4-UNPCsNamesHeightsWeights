@@ -1,3 +1,4 @@
 {"version":1,"steps":[
-{"compile":["UNPC - NamesHeightsWeights.esp","UNPC-LFOFacials.esp","UNPC-Orphans.esp"]}
+{"copy":["optional"]},
+{"compile":["UNPC - NamesHeightsWeights.esp","UNPC-LFOFacials.esp","UNPC-Orphans.esp","UNPC - KidInAFridgePeabodySettlers.esp","UNPC - Lunar - Facials.esp","UNPC - Lunar - ScalingTweaks.esp","UNPC - Lunar.esp","UNPC - SanctuaryNPCs.esp","UNPC - TrainBar.esp","UNPC - Vault81Recruitment.esp"]}
 ]}

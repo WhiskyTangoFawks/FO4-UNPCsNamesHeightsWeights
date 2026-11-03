@@ -1,0 +1,158 @@
+{
+  "FormKey": "07ED07:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "encFeralGhoul07_Base",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-22, -23, 0",
+    "Second": "22, 23, 117"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 76,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.75
+  },
+  "CalcMinLevel": 52,
+  "CalcMaxLevel": 61,
+  "DispositionBase": 35,
+  "Unknown": -15664,
+  "Factions": [
+    {
+      "Faction": "077C6C:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "22D0F3:Fallout4.esm",
+  "Voice": "09B20A:Fallout4.esm",
+  "TemplateActors": {},
+  "Race": "06B4EC:Fallout4.esm",
+  "AttackRace": "06B4EC:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "8F19BB:LunarFalloutOverhaul.esp",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 130.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 75.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 70.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 75.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 110.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsFriendsAndAllies",
+  "Keywords": [
+    "215CDC:Fallout4.esm",
+    "0018A0:Unique NPCs - Creatures and Monsters.esp"
+  ],
+  "AttachParentSlots": [
+    "24A0FA:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "SkinBase"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "001E44:Unique NPCs - Creatures and Monsters.esp",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "SkinRandom"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "001E44:Unique NPCs - Creatures and Monsters.esp",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ],
+  "Class": "123E16:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rotting Feral Ghoul"
+  },
+  "CalculatedHealth": 50,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "09990E:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.95,
+  "NAM7": 0.0,
+  "HeightMax": 1.1,
+  "Weight": {
+    "Thin": 3.4028235E+38,
+    "Muscular": 3.4028235E+38
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "098175:Fallout4.esm",
+  "DefaultOutfit": "0B03CB:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#D5CCCA",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

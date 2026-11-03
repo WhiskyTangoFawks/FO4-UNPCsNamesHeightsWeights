@@ -1,0 +1,161 @@
+{
+  "FormKey": "02A83D:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "CarolPeabody",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "PeabodyKilledScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "MS01",
+            "Object": "0229F6:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "PeabodyFaction",
+            "Object": "19E968:Fallout4.esm"
+          }
+        ]
+      },
+      {
+        "Name": "workshopnpcscript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptBoolProperty",
+            "Name": "bAllowMove",
+            "Data": true
+          },
+          {
+            "MutagenObjectType": "ScriptBoolProperty",
+            "Name": "bCommandable",
+            "Data": true
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "WorkshopParent",
+            "Object": "02058E:Fallout4.esm"
+          }
+        ]
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-22, -14, 0",
+    "Second": "22, 14, 128"
+  },
+  "Flags": [
+    "Female",
+    "Essential",
+    "AutoCalcStats",
+    "Unique"
+  ],
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 6
+  },
+  "DispositionBase": 35,
+  "Factions": [
+    {
+      "Faction": "0337F3:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "10C047:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "19E968:Fallout4.esm"
+    }
+  ],
+  "Voice": "023322:Fallout4.esm",
+  "Race": "0EAFB6:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "02332C:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsFriendsAndAllies",
+  "Packages": [
+    "1D8859:Fallout4.esm",
+    "19E969:Fallout4.esm"
+  ],
+  "Keywords": [
+    "03D28F:Fallout4.esm"
+  ],
+  "Class": "01326B:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Carol Peabody"
+  },
+  "ShortName": {
+    "TargetLanguage": "English",
+    "Value": "Carol"
+  },
+  "CalculatedHealth": 190,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A0439:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "19E975:Fallout4.esm",
+  "CrimeFaction": "19E968:Fallout4.esm",
+  "TextureLighting": "#009A9A9A",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}
