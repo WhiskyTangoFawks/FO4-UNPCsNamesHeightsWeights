@@ -1,0 +1,236 @@
+{
+  "FormKey": "1552C4:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "BoS_LvlMrGutsy",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "MrHandyScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "LeftMobilityCondition",
+            "Object": "000370:Fallout4.esm"
+          }
+        ]
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-27, -27, 0",
+    "Second": "27, 27, 120"
+  },
+  "XpValueOffset": 32,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 22
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "7434",
+  "Factions": [
+    {
+      "Faction": "058304:Fallout4.esm"
+    },
+    {
+      "Faction": "05DE41:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "01B346:Fallout4.esm",
+  "Voice": "06E59F:Fallout4.esm",
+  "DefaultTemplate": "0E9293:Fallout4.esm",
+  "TemplateActors": {
+    "StatsTemplate": "0E9293:Fallout4.esm",
+    "SpellListTemplate": "0E9293:Fallout4.esm",
+    "InventoryTemplate": "0E9293:Fallout4.esm",
+    "DefPackListTemplate": "0E9293:Fallout4.esm",
+    "AttackDataTemplate": "0E9293:Fallout4.esm",
+    "KeywordsTemplate": "0E9293:Fallout4.esm"
+  },
+  "Race": "0359F4:Fallout4.esm",
+  "AttackRace": "0359F4:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 6.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 200.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 60.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 40.0
+    }
+  ],
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Packages": [
+    "15268D:Fallout4.esm"
+  ],
+  "Keywords": [
+    "22DB8F:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Default"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "047E19:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E23:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E35:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E2E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "072B4E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0CAC72:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1E094E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1E094E:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1E094E:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "2216D2:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "222C59:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1E0948:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E36:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E36:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E36:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0CAC71:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "230F05:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1BE2DC:Fallout4.esm",
+          "Value": 562,
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "0B287C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Brotherhood Mr. Gutsy"
+  },
+  "CalculatedHealth": 280,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0EF218:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "037005:Fallout4.esm",
+  "DefaultPackageList": "22D9EB:Fallout4.esm",
+  "CrimeFaction": "05DE41:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

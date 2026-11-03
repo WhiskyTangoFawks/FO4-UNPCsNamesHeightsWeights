@@ -1,0 +1,162 @@
+{
+  "FormKey": "113991:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DN150_SupermutantBoss",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-23, -20, 0",
+    "Second": "23, 20, 149"
+  },
+  "Flags": [
+    "Unique"
+  ],
+  "XpValueOffset": 7,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 6
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "3647",
+  "Unknown": 2111,
+  "Factions": [
+    {
+      "Faction": "058305:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "249196:Fallout4.esm",
+  "Voice": "06D7B7:Fallout4.esm",
+  "DefaultTemplate": "075341:Fallout4.esm",
+  "TemplateActors": {
+    "TraitTemplate": "075341:Fallout4.esm",
+    "StatsTemplate": "075341:Fallout4.esm",
+    "FactionsTemplate": "075341:Fallout4.esm",
+    "SpellListTemplate": "075341:Fallout4.esm",
+    "AiDataTemplate": "075341:Fallout4.esm",
+    "AiPackagesTemplate": "075341:Fallout4.esm",
+    "ScriptTemplate": "075341:Fallout4.esm",
+    "DefPackListTemplate": "075341:Fallout4.esm",
+    "AttackDataTemplate": "075341:Fallout4.esm",
+    "KeywordsTemplate": "075341:Fallout4.esm"
+  },
+  "Race": "01A009:Fallout4.esm",
+  "Skin": "01A00B:Fallout4.esm",
+  "AttackRace": "01A009:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1C346F:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 3.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 5.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "023736:Fallout4.esm",
+        "Count": 3
+      }
+    },
+    {
+      "Item": {
+        "Item": "069088:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0CABA3:Fallout4.esm",
+        "Count": 3
+      }
+    },
+    {
+      "Item": {
+        "Item": "0EEBED:Fallout4.esm",
+        "Count": 10
+      }
+    },
+    {
+      "Item": {
+        "Item": "188A78:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsAllies",
+  "Class": "076A07:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Hammer"
+  },
+  "CalculatedHealth": 50,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "CombatStyle": "0A881F:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "0A73A1:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "FormKey": "0F1497:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "GraygardenWorker01",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "MrHandyScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "LeftMobilityCondition",
+            "Object": "000370:Fallout4.esm"
+          }
+        ]
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-27, -27, 0",
+    "Second": "27, 27, 120"
+  },
+  "Flags": [
+    "AutoCalcStats",
+    "Unique"
+  ],
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 14
+  },
+  "DispositionBase": 35,
+  "Unknown": 18585,
+  "Factions": [
+    {
+      "Faction": "03F228:Fallout4.esm"
+    },
+    {
+      "Faction": "058304:Fallout4.esm"
+    }
+  ],
+  "Voice": "05DC49:Fallout4.esm",
+  "Race": "0359F4:Fallout4.esm",
+  "AttackRace": "0359F4:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002EA:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 25.0
+    },
+    {
+      "ActorValue": "12723E:Fallout4.esm",
+      "Value": 1.0
+    },
+    {
+      "ActorValue": "12723F:Fallout4.esm",
+      "Value": 1.0
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "ObjectTemplates": [
+    {
+      "Includes": [
+        {
+          "Mod": "047E19:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E23:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E35:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E2E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "072B4E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0CAC71:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0CAC72:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "157C63:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "157C64:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "157C65:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E36:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E36:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        }
+      ]
+    }
+  ],
+  "Class": "0EF217:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mr. Handy"
+  },
+  "CalculatedHealth": 215,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0EF218:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "037005:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "CrimeFaction": "03F228:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

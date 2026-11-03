@@ -1,0 +1,167 @@
+{
+  "FormKey": "175093:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "Prydwen_EncBoSSoldier02_PAArmor_EntryScene",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-22, -14, 0",
+    "Second": "22, 14, 128"
+  },
+  "Flags": [
+    "Respawn"
+  ],
+  "XpValueOffset": 25,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 17
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "7454",
+  "Factions": [
+    {
+      "Faction": "05DE41:Fallout4.esm"
+    },
+    {
+      "Faction": "1479C1:Fallout4.esm"
+    },
+    {
+      "Faction": "15356B:Fallout4.esm"
+    },
+    {
+      "Faction": "18310B:Fallout4.esm"
+    },
+    {
+      "Faction": "18310E:Fallout4.esm"
+    },
+    {
+      "Faction": "1E2342:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "077D1F:Fallout4.esm",
+  "Voice": "077D1C:Fallout4.esm",
+  "DefaultTemplate": "07533C:Fallout4.esm",
+  "TemplateActors": {
+    "StatsTemplate": "0769FB:Fallout4.esm",
+    "FactionsTemplate": "153807:Fallout4.esm",
+    "SpellListTemplate": "07533C:Fallout4.esm",
+    "AiDataTemplate": "07533C:Fallout4.esm",
+    "InventoryTemplate": "16014C:Fallout4.esm",
+    "DefPackListTemplate": "07533C:Fallout4.esm",
+    "AttackDataTemplate": "07533C:Fallout4.esm",
+    "KeywordsTemplate": "07533C:Fallout4.esm"
+  },
+  "Race": "013746:Fallout4.esm",
+  "AttackRace": "013746:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 160.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "05859B:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A5:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A6:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "160154:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsFriendsAndAllies",
+  "Packages": [
+    "175097:Fallout4.esm",
+    "150788:Fallout4.esm"
+  ],
+  "Keywords": [
+    "02CB72:Fallout4.esm",
+    "013794:Fallout4.esm",
+    "076A08:Fallout4.esm"
+  ],
+  "Class": "076A07:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Knight Benter"
+  },
+  "ShortName": {
+    "TargetLanguage": "English",
+    "Value": "Benter"
+  },
+  "CalculatedHealth": 80,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "CombatStyle": "076A09:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.3333,
+    "Muscular": 0.3333,
+    "Fat": 0.3333
+  },
+  "SoundLevel": "Normal",
+  "PowerArmorStand": "181520:Fallout4.esm",
+  "DefaultOutfit": "0642B1:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "CrimeFaction": "05DE41:Fallout4.esm",
+  "TextureLighting": "#F7EFEE",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

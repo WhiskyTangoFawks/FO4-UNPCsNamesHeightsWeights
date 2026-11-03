@@ -1,0 +1,259 @@
+{
+  "FormKey": "031FB3:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "VaultTecRepGoodneighbor",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "workshopnpcscript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptBoolProperty",
+            "Name": "bAllowCaravan",
+            "Data": true
+          },
+          {
+            "MutagenObjectType": "ScriptBoolProperty",
+            "Name": "bAllowMove",
+            "Data": true
+          },
+          {
+            "MutagenObjectType": "ScriptBoolProperty",
+            "Name": "bCommandable",
+            "Data": true
+          },
+          {
+            "MutagenObjectType": "ScriptBoolProperty",
+            "Name": "bIsWorker",
+            "Data": true
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "specialVendorContainerBase",
+            "Object": "11333F:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "specialVendorContainerRefUnique",
+            "Object": "22D0EE:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptIntProperty",
+            "Name": "specialVendorType"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "WorkshopParent",
+            "Object": "02058E:Fallout4.esm"
+          }
+        ]
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-22, -14, 0",
+    "Second": "22, 14, 128"
+  },
+  "Flags": [
+    "AutoCalcStats",
+    "Unique",
+    "Protected"
+  ],
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.0
+  },
+  "DispositionBase": 35,
+  "Unknown": 12079,
+  "Factions": [
+    {
+      "Faction": "0228A8:Fallout4.esm"
+    },
+    {
+      "Faction": "0228A9:Fallout4.esm"
+    },
+    {
+      "Faction": "0337F3:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "176057:Fallout4.esm"
+    }
+  ],
+  "Voice": "031FB2:Fallout4.esm",
+  "Race": "0EAFB6:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "02332A:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Confidence": "Average",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Packages": [
+    "1C0FB8:Fallout4.esm",
+    "10C939:Fallout4.esm",
+    "1C0FB9:Fallout4.esm",
+    "10C936:Fallout4.esm",
+    "003641:Fallout4.esm"
+  ],
+  "Keywords": [
+    "024593:Fallout4.esm",
+    "0FA84A:Fallout4.esm"
+  ],
+  "Class": "01326B:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Vault-Tec Rep Henri Arneuil"
+  },
+  "ShortName": {
+    "TargetLanguage": "English",
+    "Value": "Henri"
+  },
+  "CalculatedHealth": 90,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HeadParts": [
+    "051631:Fallout4.esm",
+    "0518FD:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "08E1AA:Fallout4.esm",
+    "0EAFBB:Fallout4.esm",
+    "17A5EA:Fallout4.esm"
+  ],
+  "HairColor": "0A042D:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.9384,
+    "Muscular": 0.0231,
+    "Fat": 0.0384
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "123DA2:Fallout4.esm",
+  "CrimeFaction": "0228A8:Fallout4.esm",
+  "TextureLighting": "#9A9A9A",
+  "FaceMorphs": [
+    {
+      "Index": 5,
+      "Scale": -0.58
+    },
+    {
+      "Index": 921646269,
+      "Scale": 0.32
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

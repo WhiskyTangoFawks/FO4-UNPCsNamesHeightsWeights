@@ -1,0 +1,161 @@
+{
+  "FormKey": "10D4E4:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "GoodneighborDrifterF03GhoulStatehouse",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-22, -14, 0",
+    "Second": "22, 14, 128"
+  },
+  "Flags": [
+    "Female",
+    "AutoCalcStats"
+  ],
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 6
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "7838",
+  "Unknown": 183,
+  "Factions": [
+    {
+      "Faction": "0035DE:Fallout4.esm"
+    },
+    {
+      "Faction": "0228A8:Fallout4.esm"
+    },
+    {
+      "Faction": "0228A9:Fallout4.esm"
+    },
+    {
+      "Faction": "023325:Fallout4.esm"
+    },
+    {
+      "Faction": "0E1ACD:Fallout4.esm"
+    }
+  ],
+  "Voice": "023322:Fallout4.esm",
+  "DefaultTemplate": "02331F:Fallout4.esm",
+  "TemplateActors": {
+    "StatsTemplate": "02331F:Fallout4.esm",
+    "FactionsTemplate": "02331F:Fallout4.esm",
+    "SpellListTemplate": "02331F:Fallout4.esm",
+    "AiDataTemplate": "02331F:Fallout4.esm",
+    "BaseDataTemplate": "02331F:Fallout4.esm",
+    "ScriptTemplate": "02331F:Fallout4.esm",
+    "DefPackListTemplate": "02331F:Fallout4.esm",
+    "AttackDataTemplate": "02331F:Fallout4.esm",
+    "KeywordsTemplate": "02331F:Fallout4.esm"
+  },
+  "Race": "0EAFB6:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "02332A:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "000801:UNPC - NamesHeightsWeights.esp",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Brave",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Packages": [
+    "10D4E0:Fallout4.esm"
+  ],
+  "Class": "01326B:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Josie"
+  },
+  "CalculatedHealth": 190,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "Unused": 100,
+  "HeadParts": [
+    "04D0E9:Fallout4.esm",
+    "04D0EC:Fallout4.esm",
+    "0CFB4E:Fallout4.esm",
+    "0F159E:Fallout4.esm",
+    "0F6E5A:Fallout4.esm",
+    "144AA0:Fallout4.esm",
+    "14EC22:Fallout4.esm",
+    "17A5EC:Fallout4.esm"
+  ],
+  "HairColor": "19EE5A:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.901098,
+    "Muscular": 0.057803,
+    "Fat": 0.041098
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "02184D:Fallout4.esm",
+  "CrimeFaction": "0228A8:Fallout4.esm",
+  "TextureLighting": "#009A9A9A",
+  "Morphs": [
+    {
+      "Key": 17,
+      "Value": -0.4
+    }
+  ],
+  "BodyMorphRegionValues": {
+    "Head": 0.87,
+    "UpperTorso": -0.9,
+    "Arms": -0.89,
+    "LowerTorso": -0.97,
+    "Legs": -0.93
+  },
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

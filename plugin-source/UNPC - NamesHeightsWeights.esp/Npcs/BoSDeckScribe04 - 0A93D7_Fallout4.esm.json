@@ -1,0 +1,136 @@
+{
+  "FormKey": "0A93D7:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "BoSDeckScribe04",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Unique"
+  ],
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 1
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "7963",
+  "Factions": [
+    {
+      "Faction": "05DE41:Fallout4.esm"
+    },
+    {
+      "Faction": "0A93D8:Fallout4.esm"
+    },
+    {
+      "Faction": "1479C1:Fallout4.esm"
+    },
+    {
+      "Faction": "18310B:Fallout4.esm"
+    },
+    {
+      "Faction": "18310E:Fallout4.esm"
+    }
+  ],
+  "DefaultTemplate": "16BACD:Fallout4.esm",
+  "TemplateActors": {
+    "TraitTemplate": "16BACD:Fallout4.esm",
+    "StatsTemplate": "16BACD:Fallout4.esm",
+    "SpellListTemplate": "16BACD:Fallout4.esm",
+    "AiDataTemplate": "16BACD:Fallout4.esm",
+    "InventoryTemplate": "16BACD:Fallout4.esm",
+    "ScriptTemplate": "16BACD:Fallout4.esm",
+    "DefPackListTemplate": "16BACD:Fallout4.esm",
+    "AttackDataTemplate": "16BACD:Fallout4.esm",
+    "KeywordsTemplate": "16BACD:Fallout4.esm"
+  },
+  "Race": "2261A4:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "05859B:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A5:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A6:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "076A1F:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Confidence": "Average",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Packages": [
+    "196334:Fallout4.esm",
+    "196332:Fallout4.esm"
+  ],
+  "Class": "20F487:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Deck Scribe Jaegger"
+  },
+  "GearedUpWeapons": 1,
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.333333,
+    "Muscular": 0.333333,
+    "Fat": 0.333333
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "12BC98:Fallout4.esm",
+  "CrimeFaction": "05DE41:Fallout4.esm",
+  "TextureLighting": "#00000000",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "FormKey": "14EB27:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "Prydwen_LvlBoSSquire01",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-22, -14, 0",
+    "Second": "22, 14, 128"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 4,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 1
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "8095",
+  "Unknown": 1898,
+  "Factions": [
+    {
+      "Faction": "05DE41:Fallout4.esm"
+    },
+    {
+      "Faction": "1479C1:Fallout4.esm"
+    },
+    {
+      "Faction": "14EB44:Fallout4.esm"
+    },
+    {
+      "Faction": "1E2342:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "077D1F:Fallout4.esm",
+  "Voice": "0C8AA3:Fallout4.esm",
+  "DefaultTemplate": "0C868C:Fallout4.esm",
+  "TemplateActors": {
+    "TraitTemplate": "044124:Fallout4.esm",
+    "StatsTemplate": "14EAF1:Fallout4.esm",
+    "FactionsTemplate": "14EAF1:Fallout4.esm",
+    "SpellListTemplate": "14EAF1:Fallout4.esm",
+    "AiDataTemplate": "14EAF1:Fallout4.esm",
+    "BaseDataTemplate": "14EAF1:Fallout4.esm",
+    "InventoryTemplate": "14EAF1:Fallout4.esm",
+    "ScriptTemplate": "14EAF1:Fallout4.esm",
+    "DefPackListTemplate": "14EAF1:Fallout4.esm",
+    "AttackDataTemplate": "14EAF1:Fallout4.esm",
+    "KeywordsTemplate": "14EAF1:Fallout4.esm"
+  },
+  "Race": "11D83F:Fallout4.esm",
+  "AttackRace": "013746:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 40.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "05859B:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A5:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A6:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsFriendsAndAllies",
+  "Packages": [
+    "152733:Fallout4.esm",
+    "14EAFC:Fallout4.esm",
+    "14EB29:Fallout4.esm",
+    "14EB07:Fallout4.esm"
+  ],
+  "Keywords": [
+    "02CB72:Fallout4.esm",
+    "013794:Fallout4.esm",
+    "076A08:Fallout4.esm"
+  ],
+  "Class": "0CA9D3:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Camp Assistant Lioness"
+  },
+  "ShortName": {
+    "TargetLanguage": "English",
+    "Value": "Lioness"
+  },
+  "CalculatedHealth": 80,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HeadParts": [
+    "20D6D6:Fallout4.esm"
+  ],
+  "HairColor": "0A0439:Fallout4.esm",
+  "CombatStyle": "076A09:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "0439E7:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "CrimeFaction": "05DE41:Fallout4.esm",
+  "TextureLighting": "#F7EFEE",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

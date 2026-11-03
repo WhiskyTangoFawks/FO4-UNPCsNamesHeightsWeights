@@ -1,0 +1,112 @@
+{
+  "FormKey": "0BEBA2:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "LvlPrewarCultistGuard",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "AutoCalcStats"
+  ],
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.0
+  },
+  "CalcMinLevel": 6,
+  "CalcMaxLevel": 25,
+  "DispositionBase": 35,
+  "UseTemplateActors": "7721",
+  "Factions": [
+    {
+      "Faction": "0BBF88:Fallout4.esm"
+    },
+    {
+      "Faction": "123A16:Fallout4.esm"
+    },
+    {
+      "Faction": "198846:Fallout4.esm"
+    }
+  ],
+  "DefaultTemplate": "19EFBE:Fallout4.esm",
+  "TemplateActors": {
+    "TraitTemplate": "19EFBE:Fallout4.esm",
+    "SpellListTemplate": "19EFBE:Fallout4.esm",
+    "AiPackagesTemplate": "19EFBE:Fallout4.esm",
+    "ScriptTemplate": "19EFBE:Fallout4.esm",
+    "DefPackListTemplate": "19EFBE:Fallout4.esm",
+    "AttackDataTemplate": "19EFBE:Fallout4.esm",
+    "KeywordsTemplate": "19EFBE:Fallout4.esm"
+  },
+  "Race": "2261A4:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "032B01:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Brave",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsFriendsAndAllies",
+  "Class": "01326B:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Missionary Johnson"
+  },
+  "CalculatedHealth": 130,
+  "GearedUpWeapons": 1,
+  "Unused": 63,
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.333333,
+    "Muscular": 0.333333,
+    "Fat": 0.333333
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "0EBE72:Fallout4.esm",
+  "CrimeFaction": "0BBF88:Fallout4.esm",
+  "TextureLighting": "#00000000",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

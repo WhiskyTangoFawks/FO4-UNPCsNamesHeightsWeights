@@ -1,0 +1,144 @@
+{
+  "FormKey": "1526AA:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "Prydwen_LvlBoSVertibirdPilot_MessHall",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 1
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "7323",
+  "Factions": [
+    {
+      "Faction": "05DE41:Fallout4.esm"
+    },
+    {
+      "Faction": "1479C1:Fallout4.esm"
+    },
+    {
+      "Faction": "15356B:Fallout4.esm"
+    },
+    {
+      "Faction": "18310B:Fallout4.esm"
+    },
+    {
+      "Faction": "18310E:Fallout4.esm"
+    },
+    {
+      "Faction": "1E2342:Fallout4.esm"
+    }
+  ],
+  "DefaultTemplate": "12BC91:Fallout4.esm",
+  "TemplateActors": {
+    "TraitTemplate": "17D6B4:Fallout4.esm",
+    "StatsTemplate": "12BC91:Fallout4.esm",
+    "SpellListTemplate": "12BC91:Fallout4.esm",
+    "AiDataTemplate": "12BC91:Fallout4.esm",
+    "BaseDataTemplate": "12BC91:Fallout4.esm",
+    "DefPackListTemplate": "12BC91:Fallout4.esm",
+    "AttackDataTemplate": "12BC91:Fallout4.esm",
+    "KeywordsTemplate": "12BC91:Fallout4.esm"
+  },
+  "Race": "2261A4:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "05859B:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A5:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A6:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "076A1A:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "22D0F8:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Confidence": "Average",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "NoSlowApproach": true,
+  "Packages": [
+    "23EC9D:Fallout4.esm",
+    "1526A3:Fallout4.esm"
+  ],
+  "Class": "20F487:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Lancer-Captain Jefferies"
+  },
+  "CalculatedHealth": 40,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.333333,
+    "Muscular": 0.333333,
+    "Fat": 0.333333
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "15745F:Fallout4.esm",
+  "CrimeFaction": "05DE41:Fallout4.esm",
+  "TextureLighting": "#00000000",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

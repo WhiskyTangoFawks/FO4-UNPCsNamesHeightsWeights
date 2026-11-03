@@ -1,0 +1,107 @@
+{
+  "FormKey": "038511:DLCNukaWorld.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC04_LvlSupermutantBoss_Rage",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Unique"
+  ],
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 1
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "2615",
+  "Unknown": 16051,
+  "DefaultTemplate": "1FDE6C:Fallout4.esm",
+  "TemplateActors": {
+    "TraitTemplate": "1F418B:Fallout4.esm",
+    "StatsTemplate": "1FDE6C:Fallout4.esm",
+    "FactionsTemplate": "1FDE6C:Fallout4.esm",
+    "AiDataTemplate": "1FDE6C:Fallout4.esm",
+    "AiPackagesTemplate": "1FDE6C:Fallout4.esm",
+    "ScriptTemplate": "1FDE6C:Fallout4.esm",
+    "AttackDataTemplate": "1FDE6C:Fallout4.esm",
+    "KeywordsTemplate": "1FDE6C:Fallout4.esm"
+  },
+  "Race": "2261A4:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0418D4:DLCNukaWorld.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "069088:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Confidence": "Average",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "NoSlowApproach": true,
+  "Class": "20F487:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rage"
+  },
+  "CalculatedHealth": 420,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.333333,
+    "Muscular": 0.333333,
+    "Fat": 0.333333
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "0A73A1:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#00000000",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

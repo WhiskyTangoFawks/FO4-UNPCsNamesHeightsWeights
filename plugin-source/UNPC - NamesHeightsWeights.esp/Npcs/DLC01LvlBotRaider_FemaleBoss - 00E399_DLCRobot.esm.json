@@ -1,0 +1,163 @@
+{
+  "FormKey": "00E399:DLCRobot.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC01LvlBotRaider_FemaleBoss",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Unique"
+  ],
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 1
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "3647",
+  "Unknown": -8531,
+  "Factions": [
+    {
+      "Faction": "01CBED:Fallout4.esm"
+    },
+    {
+      "Faction": "004385:DLCRobot.esm"
+    }
+  ],
+  "DefaultTemplate": "07CE08:Fallout4.esm",
+  "TemplateActors": {
+    "TraitTemplate": "0D39F5:Fallout4.esm",
+    "StatsTemplate": "07CE08:Fallout4.esm",
+    "FactionsTemplate": "0008D8:DLCRobot.esm",
+    "SpellListTemplate": "07CE08:Fallout4.esm",
+    "AiDataTemplate": "07CE08:Fallout4.esm",
+    "AiPackagesTemplate": "07CE08:Fallout4.esm",
+    "ScriptTemplate": "07CE08:Fallout4.esm",
+    "DefPackListTemplate": "07CE08:Fallout4.esm",
+    "AttackDataTemplate": "07CE08:Fallout4.esm",
+    "KeywordsTemplate": "07CE08:Fallout4.esm"
+  },
+  "Race": "2261A4:Fallout4.esm",
+  "AttackRace": "013746:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "1B40C1:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "04E350:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "055C5A:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "05859B:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A5:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A6:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "19FFBB:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "246C06:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "003E07:DLCRobot.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsFriendsAndAllies",
+  "Class": "20F487:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rust Devil"
+  },
+  "CalculatedHealth": 85,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "Unused": 54,
+  "CombatStyle": "03183B:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.333333,
+    "Muscular": 0.333333,
+    "Fat": 0.333333
+  },
+  "SoundLevel": "Normal",
+  "PowerArmorStand": "00C579:DLCRobot.esm",
+  "DefaultOutfit": "00863D:DLCRobot.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#00000000",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

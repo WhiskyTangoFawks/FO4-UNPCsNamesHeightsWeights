@@ -1,0 +1,218 @@
+{
+  "FormKey": "19CBF0:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "BoSAirport_LvlBoSSoldier_CombatArmor_Auto_Patrol_Range",
+  "FormVersion": 129,
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 5,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 1
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "8091",
+  "Unknown": 24,
+  "Factions": [
+    {
+      "Faction": "05DE41:Fallout4.esm"
+    },
+    {
+      "Faction": "1479C1:Fallout4.esm"
+    },
+    {
+      "Faction": "15356B:Fallout4.esm"
+    },
+    {
+      "Faction": "18310B:Fallout4.esm"
+    },
+    {
+      "Faction": "18310E:Fallout4.esm"
+    },
+    {
+      "Faction": "1AC336:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "077D1F:Fallout4.esm",
+  "Voice": "077D1B:Fallout4.esm",
+  "DefaultTemplate": "076A03:Fallout4.esm",
+  "TemplateActors": {
+    "TraitTemplate": "17D6B4:Fallout4.esm",
+    "StatsTemplate": "076A03:Fallout4.esm",
+    "SpellListTemplate": "076A03:Fallout4.esm",
+    "AiDataTemplate": "076A03:Fallout4.esm",
+    "BaseDataTemplate": "076A03:Fallout4.esm",
+    "InventoryTemplate": "160158:Fallout4.esm",
+    "ScriptTemplate": "076A03:Fallout4.esm",
+    "DefPackListTemplate": "076A03:Fallout4.esm",
+    "AttackDataTemplate": "076A03:Fallout4.esm",
+    "KeywordsTemplate": "076A03:Fallout4.esm"
+  },
+  "Race": "013746:Fallout4.esm",
+  "AttackRace": "013746:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 40.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "05859B:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A5:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A6:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "160155:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "22D0F8:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsFriendsAndAllies",
+  "Packages": [
+    "19467F:Fallout4.esm",
+    "14EB42:Fallout4.esm"
+  ],
+  "Keywords": [
+    "02CB72:Fallout4.esm",
+    "013794:Fallout4.esm",
+    "076A08:Fallout4.esm"
+  ],
+  "Class": "076A07:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Initiate Ganey"
+  },
+  "CalculatedHealth": 80,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HeadParts": [
+    "01EEBB:Fallout4.esm",
+    "01F735:Fallout4.esm",
+    "0209F4:Fallout4.esm",
+    "0423AF:Fallout4.esm",
+    "051631:Fallout4.esm",
+    "0821DC:Fallout4.esm",
+    "0821DD:Fallout4.esm",
+    "0821DE:Fallout4.esm",
+    "0821DF:Fallout4.esm",
+    "0844A7:Fallout4.esm",
+    "0E12A4:Fallout4.esm",
+    "11CCBD:Fallout4.esm"
+  ],
+  "CombatStyle": "076A09:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.1,
+    "Muscular": 0.75,
+    "Fat": 0.15
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "076A26:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "CrimeFaction": "05DE41:Fallout4.esm",
+  "TextureLighting": "#93D6C5C0",
+  "Morphs": [
+    {
+      "Key": 921646204,
+      "Value": 1.0
+    },
+    {
+      "Key": 921646489,
+      "Value": 0.55
+    }
+  ],
+  "FaceMorphs": [
+    {
+      "Index": 9,
+      "Position": "0, -0.2, 0",
+      "Scale": -0.02
+    },
+    {
+      "Index": 10,
+      "Position": "-1, 0.09, 0"
+    },
+    {
+      "Index": 921646273,
+      "Position": "0, 0.03, -0.53",
+      "Scale": 0.78
+    },
+    {
+      "Index": 921646275,
+      "Position": "0, 0.11, -1",
+      "Scale": 0.43
+    },
+    {
+      "Index": 921646278,
+      "Scale": 0.03
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

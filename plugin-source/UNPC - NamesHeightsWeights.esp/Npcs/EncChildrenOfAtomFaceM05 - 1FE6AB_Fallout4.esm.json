@@ -1,0 +1,147 @@
+{
+  "FormKey": "1FE6AB:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncChildrenOfAtomFaceM05",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn"
+  ],
+  "XpValueOffset": 7,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 10
+  },
+  "CalcMinLevel": 1,
+  "CalcMaxLevel": 25,
+  "DispositionBase": 35,
+  "Unknown": -19712,
+  "Factions": [
+    {
+      "Faction": "02FB84:Fallout4.esm"
+    }
+  ],
+  "Voice": "02FB80:Fallout4.esm",
+  "Race": "013746:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm",
+      "Value": 1.0
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002CC:Fallout4.esm",
+      "Value": 15.0
+    },
+    {
+      "ActorValue": "0002CD:Fallout4.esm",
+      "Value": 30.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 240.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "0585A4:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A6:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "188A73:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "1BBCBD:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsAllies",
+  "AggroRadiusBehaviorEnabled": true,
+  "AggroRadiusWarn": 1024,
+  "AggroRadiusWarnOrAttack": 512,
+  "AggroRadiusAttack": 128,
+  "Class": "1CD0A9:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Child of Atom"
+  },
+  "CalculatedHealth": 140,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "NAM5": "0xFF00",
+  "HeightMin": 0.85,
+  "NAM7": 0.0,
+  "HeightMax": 1.25,
+  "Weight": {
+    "Thin": 0.06,
+    "Muscular": 0.7,
+    "Fat": 0.25
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "0E7474:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#F7EFEE",
+  "BodyMorphRegionValues": {
+    "Head": 0.64,
+    "UpperTorso": -0.76,
+    "Arms": -1.0,
+    "LowerTorso": 0.23,
+    "Legs": -0.3676
+  },
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "FormKey": "14EB48:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "Prydwen_LvlBoSScribe_Science02",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 1
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "8127",
+  "Factions": [
+    {
+      "Faction": "05DE41:Fallout4.esm"
+    },
+    {
+      "Faction": "1479C1:Fallout4.esm"
+    },
+    {
+      "Faction": "152BFB:Fallout4.esm"
+    },
+    {
+      "Faction": "15356A:Fallout4.esm"
+    },
+    {
+      "Faction": "18310B:Fallout4.esm"
+    },
+    {
+      "Faction": "18310E:Fallout4.esm"
+    },
+    {
+      "Faction": "1E2342:Fallout4.esm"
+    }
+  ],
+  "DefaultTemplate": "076A04:Fallout4.esm",
+  "TemplateActors": {
+    "TraitTemplate": "17D6B4:Fallout4.esm",
+    "StatsTemplate": "076A04:Fallout4.esm",
+    "FactionsTemplate": "153809:Fallout4.esm",
+    "SpellListTemplate": "076A04:Fallout4.esm",
+    "AiDataTemplate": "076A04:Fallout4.esm",
+    "AiPackagesTemplate": "14EAFD:Fallout4.esm",
+    "BaseDataTemplate": "076A04:Fallout4.esm",
+    "InventoryTemplate": "16BACE:Fallout4.esm",
+    "ScriptTemplate": "076A04:Fallout4.esm",
+    "DefPackListTemplate": "076A04:Fallout4.esm",
+    "AttackDataTemplate": "076A04:Fallout4.esm",
+    "KeywordsTemplate": "076A04:Fallout4.esm"
+  },
+  "Race": "2261A4:Fallout4.esm",
+  "AttackRace": "013746:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "05859B:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A5:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0585A6:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "076A1F:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Confidence": "Average",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Packages": [
+    "14EB01:Fallout4.esm",
+    "14EB0E:Fallout4.esm",
+    "14EAEC:Fallout4.esm"
+  ],
+  "Class": "20F487:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Scribe Jester"
+  },
+  "CalculatedHealth": 80,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.333333,
+    "Muscular": 0.333333,
+    "Fat": 0.333333
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "16BACB:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "CrimeFaction": "05DE41:Fallout4.esm",
+  "TextureLighting": "#00000000",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

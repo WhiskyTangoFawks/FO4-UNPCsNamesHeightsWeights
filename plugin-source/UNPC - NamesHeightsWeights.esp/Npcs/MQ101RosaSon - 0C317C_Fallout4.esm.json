@@ -1,0 +1,84 @@
+{
+  "FormKey": "0C317C:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "MQ101RosaSon",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "AutoCalcStats",
+    "Unique",
+    "IsGhost"
+  ],
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 6
+  },
+  "DispositionBase": 35,
+  "Unknown": 1,
+  "Factions": [
+    {
+      "Faction": "198B72:Fallout4.esm"
+    }
+  ],
+  "Voice": "0C317D:Fallout4.esm",
+  "Race": "11D83F:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002CC:Fallout4.esm",
+      "Value": 12.0
+    },
+    {
+      "ActorValue": "0002CD:Fallout4.esm",
+      "Value": 45.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Packages": [
+    "003641:Fallout4.esm"
+  ],
+  "Class": "01326B:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Pete"
+  },
+  "CalculatedHealth": 190,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HeadParts": [
+    "20D6D6:Fallout4.esm",
+    "247507:Fallout4.esm"
+  ],
+  "HairColor": "19EE67:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "1681B6:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#F7EFEE",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

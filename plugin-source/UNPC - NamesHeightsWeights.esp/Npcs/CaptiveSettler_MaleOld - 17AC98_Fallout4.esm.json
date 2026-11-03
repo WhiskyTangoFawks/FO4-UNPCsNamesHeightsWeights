@@ -1,0 +1,480 @@
+{
+  "FormKey": "17AC98:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "CaptiveSettler_MaleOld",
+  "FormVersion": 129,
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 5,
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 2
+  },
+  "DispositionBase": 35,
+  "UseTemplateActors": "8126",
+  "Factions": [
+    {
+      "Faction": "0035DE:Fallout4.esm"
+    },
+    {
+      "Faction": "02E005:Fallout4.esm"
+    },
+    {
+      "Faction": "02F126:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "0337F3:Fallout4.esm"
+    },
+    {
+      "Faction": "058610:Fallout4.esm"
+    },
+    {
+      "Faction": "062555:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "062556:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "07925A:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "0C8608:Fallout4.esm"
+    },
+    {
+      "Faction": "10C03F:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "10C046:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "10C047:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "10C88E:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "155251:Fallout4.esm"
+    },
+    {
+      "Faction": "17605C:Fallout4.esm"
+    }
+  ],
+  "Voice": "0CEAA3:Fallout4.esm",
+  "DefaultTemplate": "178F08:Fallout4.esm",
+  "TemplateActors": {
+    "StatsTemplate": "178F08:Fallout4.esm",
+    "FactionsTemplate": "178F08:Fallout4.esm",
+    "SpellListTemplate": "178F08:Fallout4.esm",
+    "AiDataTemplate": "178F08:Fallout4.esm",
+    "AiPackagesTemplate": "178F08:Fallout4.esm",
+    "BaseDataTemplate": "178F08:Fallout4.esm",
+    "InventoryTemplate": "178F08:Fallout4.esm",
+    "ScriptTemplate": "178F08:Fallout4.esm",
+    "DefPackListTemplate": "178F08:Fallout4.esm",
+    "AttackDataTemplate": "178F08:Fallout4.esm",
+    "KeywordsTemplate": "178F08:Fallout4.esm"
+  },
+  "Race": "013746:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "12723E:Fallout4.esm",
+      "Value": 1.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "02332A:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "1642A8:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Average",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Packages": [
+    "05A6AF:Fallout4.esm",
+    "05A6B0:Fallout4.esm"
+  ],
+  "Keywords": [
+    "05F763:Fallout4.esm",
+    "0FA84B:Fallout4.esm"
+  ],
+  "Class": "01326B:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Daly"
+  },
+  "CalculatedHealth": 100,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HeadParts": [
+    "01EEBB:Fallout4.esm",
+    "01F735:Fallout4.esm",
+    "0423AF:Fallout4.esm",
+    "051631:Fallout4.esm",
+    "0844A7:Fallout4.esm",
+    "0CFB3A:Fallout4.esm",
+    "0E12A4:Fallout4.esm",
+    "11CCBD:Fallout4.esm",
+    "1D2A5F:Fallout4.esm",
+    "1D2A62:Fallout4.esm",
+    "1D7F9E:Fallout4.esm"
+  ],
+  "HairColor": "19EE5B:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.6425,
+    "Muscular": 0.185,
+    "Fat": 0.1725
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "1C269A:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "HeadTexture": "128C59:Fallout4.esm",
+  "TextureLighting": "#F7EFEE",
+  "Morphs": [
+    {
+      "Key": 921646549,
+      "Value": 0.7
+    },
+    {
+      "Key": 921646606,
+      "Value": 1.0
+    },
+    {
+      "Key": 921646615,
+      "Value": 1.0
+    },
+    {
+      "Key": 921646547,
+      "Value": -0.84
+    }
+  ],
+  "FaceTintingLayers": [
+    {
+      "DataType": "Value",
+      "Index": 1178,
+      "Value": 0.37,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1180,
+      "Value": 0.57,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "ValueAndColor",
+      "Index": 1203,
+      "Value": 0.41,
+      "Color": "#00000000",
+      "TemplateColorIndex": 1202
+    },
+    {
+      "DataType": "ValueAndColor",
+      "Index": 1205,
+      "Value": 1.0,
+      "Color": "#00000000",
+      "TemplateColorIndex": 1202
+    },
+    {
+      "DataType": "Value",
+      "Index": 1230,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1256,
+      "Value": 0.7,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1257,
+      "Value": 0.45,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1347,
+      "Value": 0.26,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1350,
+      "Value": 0.28,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1354,
+      "Value": 0.61,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1358,
+      "Value": 0.52,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1360,
+      "Value": 0.57,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1562,
+      "Value": 0.41,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1565,
+      "Value": 1.0,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1640,
+      "Value": 1.0,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    }
+  ],
+  "FaceMorphs": [
+    {
+      "Index": 0,
+      "Position": "0.54, 0.321617, 0.269099",
+      "Rotation": "-0.167644, 0, 0"
+    },
+    {
+      "Index": 1,
+      "Position": "-0.333823, 0.068074, -0.125712"
+    },
+    {
+      "Index": 2,
+      "Position": "0.15698, -0.19026, 0.040978"
+    },
+    {
+      "Index": 3,
+      "Position": "0.17378, 0.313636, -0.1",
+      "Scale": 0.261957
+    },
+    {
+      "Index": 4,
+      "Position": "0, 0, -0.53",
+      "Scale": 0.16
+    },
+    {
+      "Index": 5,
+      "Position": "0.263563, 0.17609, 0.212074",
+      "Rotation": "0, 0.094, 0",
+      "Scale": -0.181012
+    },
+    {
+      "Index": 6,
+      "Position": "0.230508, -0.198685, 0.014658"
+    },
+    {
+      "Index": 7,
+      "Position": "0.198949, -0.086516, 0.19349"
+    },
+    {
+      "Index": 8,
+      "Position": "0.237753, 0.316505, -0.022876",
+      "Scale": 0.32449
+    },
+    {
+      "Index": 9,
+      "Position": "0.317161, -0.188143, -0.66",
+      "Scale": -0.327985
+    },
+    {
+      "Index": 10,
+      "Position": "-0.71, -0.09, 0.343931",
+      "Scale": 0.42
+    },
+    {
+      "Index": 25,
+      "Position": "0, -0.340855, 0.142675",
+      "Scale": 0.159298
+    },
+    {
+      "Index": 26,
+      "Position": "0.08, 0.318423, 0.67"
+    },
+    {
+      "Index": 27,
+      "Position": "-0.58, 0.52, -1"
+    },
+    {
+      "Index": 62,
+      "Position": "-0.01, 0.09, -0.77"
+    },
+    {
+      "Index": 63,
+      "Position": "0, -0.14, -0.71"
+    },
+    {
+      "Index": 921646266,
+      "Position": "-0.159146, -0.31752, -0.050712",
+      "Scale": 0.183503
+    },
+    {
+      "Index": 921646267,
+      "Position": "0.348631, 0.147143, -0.22"
+    },
+    {
+      "Index": 921646268,
+      "Position": "0, -0.28, -1"
+    },
+    {
+      "Index": 921646269,
+      "Position": "0.188172, 0.311498, -0.057088",
+      "Rotation": "0.185604, 0, 0",
+      "Scale": 0.021107
+    },
+    {
+      "Index": 921646270,
+      "Position": "0, 0, -1"
+    },
+    {
+      "Index": 921646271,
+      "Position": "0.36, 0.071121, -0.65",
+      "Rotation": "0.056531, 0, -0.249752",
+      "Scale": -0.69
+    },
+    {
+      "Index": 921646272,
+      "Position": "0, -0.112679, 0.52"
+    },
+    {
+      "Index": 921646273,
+      "Position": "0.322945, -0.103148, 0.16",
+      "Rotation": "-0.034985, 0, 0",
+      "Scale": 0.191523
+    },
+    {
+      "Index": 921646274,
+      "Position": "0, -0.315427, -0.0956",
+      "Scale": -0.034602
+    },
+    {
+      "Index": 921646275,
+      "Position": "-0.033757, -0.16, -0.345473",
+      "Rotation": "0.11, 0, 0",
+      "Scale": 0.64
+    },
+    {
+      "Index": 921646276,
+      "Position": "0.155996, 0.297405, -0.71",
+      "Scale": 0.157561
+    },
+    {
+      "Index": 921646277,
+      "Position": "0.265841, -0.51, 0.08",
+      "Rotation": "0, 0, -1"
+    },
+    {
+      "Index": 921646278,
+      "Position": "0, -0.136395, -0.41",
+      "Scale": -1.0
+    },
+    {
+      "Index": 921646279,
+      "Position": "0, -0.327188, -1",
+      "Scale": -0.28
+    }
+  ],
+  "FacialMorphIntensity": 2.0,
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

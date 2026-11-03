@@ -1,0 +1,254 @@
+{
+  "FormKey": "03F234:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "Wiseman",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "workshopnpcscript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "assignedMultiResource",
+            "Object": "000331:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptBoolProperty",
+            "Name": "bCommandable",
+            "Data": true
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "WorkshopParent",
+            "Object": "02058E:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptBoolProperty",
+            "Name": "bIsWorker",
+            "Data": true
+          }
+        ]
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-22, -14, 0",
+    "Second": "22, 14, 128"
+  },
+  "Flags": [
+    "AutoCalcStats",
+    "Unique",
+    "Protected"
+  ],
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 6
+  },
+  "DispositionBase": 35,
+  "Factions": [
+    {
+      "Faction": "0337F3:Fallout4.esm"
+    },
+    {
+      "Faction": "03F227:Fallout4.esm"
+    },
+    {
+      "Faction": "0483AF:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "0C8608:Fallout4.esm"
+    },
+    {
+      "Faction": "0FA7F1:Fallout4.esm"
+    },
+    {
+      "Faction": "17605C:Fallout4.esm"
+    }
+  ],
+  "Voice": "023321:Fallout4.esm",
+  "Race": "0EAFB6:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "032B0B:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "155864:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Confidence": "Average",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Keywords": [
+    "0C866C:Fallout4.esm",
+    "022E49:Fallout4.esm"
+  ],
+  "Class": "01326B:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Wiseman"
+  },
+  "ShortName": {
+    "TargetLanguage": "English",
+    "Value": "Wiseman"
+  },
+  "CalculatedHealth": 190,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HeadParts": [
+    "051631:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "0EAFBB:Fallout4.esm",
+    "17A5EA:Fallout4.esm"
+  ],
+  "HairColor": "0A042E:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.95,
+  "NAM7": 0.0,
+  "HeightMax": 1.1,
+  "Weight": {
+    "Thin": 0.7,
+    "Muscular": 0.3
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "021842:Fallout4.esm",
+  "CrimeFaction": "03F227:Fallout4.esm",
+  "TextureLighting": "#B9C2C6",
+  "FaceTintingLayers": [
+    {
+      "DataType": "Value",
+      "Index": 1148,
+      "Value": 1.0,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "ValueAndColor",
+      "Index": 1168,
+      "Value": 1.0,
+      "Color": "#00B9C2C6",
+      "TemplateColorIndex": 1192
+    }
+  ],
+  "FaceMorphs": [
+    {
+      "Index": 5,
+      "Scale": 0.01
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "FormKey": "02074C:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "TommyLonegan",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-22, -14, 0",
+    "Second": "22, 14, 128"
+  },
+  "Flags": [
+    "Essential",
+    "AutoCalcStats",
+    "Unique"
+  ],
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 2
+  },
+  "DispositionBase": 35,
+  "Unknown": 16042,
+  "Factions": [
+    {
+      "Faction": "04D116:Fallout4.esm"
+    },
+    {
+      "Faction": "0C73DE:Fallout4.esm"
+    },
+    {
+      "Faction": "176057:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "04E350:Fallout4.esm",
+  "Voice": "02074E:Fallout4.esm",
+  "Race": "0EAFB6:Fallout4.esm",
+  "Skin": "0EAFB8:Fallout4.esm",
+  "AttackRace": "013746:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 60.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "055C5A:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "17412E:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Packages": [
+    "1384DF:Fallout4.esm",
+    "0C73F1:Fallout4.esm"
+  ],
+  "Keywords": [
+    "03D290:Fallout4.esm",
+    "0C866F:Fallout4.esm"
+  ],
+  "Class": "01326B:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Tommy Lonegan"
+  },
+  "ShortName": {
+    "TargetLanguage": "English",
+    "Value": "Tommy"
+  },
+  "CalculatedHealth": 110,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "Unused": 54,
+  "HeadParts": [
+    "01EEBC:Fallout4.esm",
+    "051631:Fallout4.esm",
+    "0518FD:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "083D10:Fallout4.esm",
+    "0EAFBB:Fallout4.esm",
+    "17A5E9:Fallout4.esm"
+  ],
+  "CombatStyle": "047165:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.273,
+    "Muscular": 0.104,
+    "Fat": 0.623
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "0F144C:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#86807D",
+  "FaceTintingLayers": [
+    {
+      "DataType": "Value",
+      "Index": 1158,
+      "Value": 0.62,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1159,
+      "Value": 0.61,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1160,
+      "Value": 0.64,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1164,
+      "Value": 1.0,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "ValueAndColor",
+      "Index": 1168,
+      "Value": 1.0,
+      "Color": "#0086807D",
+      "TemplateColorIndex": 1197
+    }
+  ],
+  "BodyMorphRegionValues": {
+    "Head": -0.85,
+    "UpperTorso": -0.18,
+    "Legs": -0.28
+  },
+  "FaceMorphs": [
+    {
+      "Index": 2,
+      "Position": "0, 0, 0.186"
+    },
+    {
+      "Index": 3,
+      "Position": "0, -0.09, 0.258"
+    },
+    {
+      "Index": 4,
+      "Position": "0, 0, 0.09"
+    },
+    {
+      "Index": 5,
+      "Position": "-0.33, -0.102, -0.228"
+    },
+    {
+      "Index": 9,
+      "Position": "0, 0, 0.246"
+    },
+    {
+      "Index": 25,
+      "Position": "0, 0.06, -0.82",
+      "Scale": -0.5
+    },
+    {
+      "Index": 26,
+      "Position": "0, -0.474, 0.03"
+    },
+    {
+      "Index": 27,
+      "Position": "0, 0, -0.15"
+    },
+    {
+      "Index": 63,
+      "Position": "0, -0.02, -0.14"
+    },
+    {
+      "Index": 921646267,
+      "Position": "0, -0.36, 0.16"
+    },
+    {
+      "Index": 921646269,
+      "Position": "0, 0, 0.114",
+      "Scale": 0.47
+    },
+    {
+      "Index": 921646271,
+      "Position": "-0.084, 0, -0.276",
+      "Scale": 0.096
+    },
+    {
+      "Index": 921646273,
+      "Position": "0, 0, -0.162"
+    },
+    {
+      "Index": 921646274,
+      "Position": "0, 0, -0.462"
+    },
+    {
+      "Index": 921646276,
+      "Position": "0, 0.114, 0.234",
+      "Scale": -0.132
+    },
+    {
+      "Index": 921646277,
+      "Position": "-0.162, -0.246, 0",
+      "Rotation": "0, 0, -0.276"
+    }
+  ],
+  "FacialMorphIntensity": 5.0,
+  "MajorFlags": [
+    "0x40000"
+  ]
+}
