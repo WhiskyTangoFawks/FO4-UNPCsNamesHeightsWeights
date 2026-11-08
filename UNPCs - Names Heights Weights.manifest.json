@@ -1,9 +1,6 @@
 {
 "version":1,
 "packages":[
-{"kind":"installationFile","name":"Unique NPCs - Lite-61205-1-5-1718687900.7z","packageVersion":"1.5.0.0","size":592721,"hash":"AVsMDxYDybU=","host":{"nexus":{"game":"fallout4","mod":61205,"file":323315}}},
-{"kind":"installationFile","name":"UNPC - LFO Facials-61205-1-1654947729.7z","packageVersion":"1.0.0.0","size":677666,"hash":"P4Axe1yaskE=","host":{"nexus":{"game":"fallout4","mod":61205,"file":240286}}},
-{"kind":"installationFile","name":"UNPC - Orphans of the Commonwealth-61205-1-1659606861.7z","packageVersion":"1.0.0.0","size":16696,"hash":"72iGN0lR9cQ=","host":{"nexus":{"game":"fallout4","mod":61205,"file":245537}}},
 {"kind":"installationFile","name":"UNPCs - Minor Conflict Resolution Patches-61205-1-5-1718687970.7z","packageVersion":"1.5.0.0","size":68059,"hash":"Rr4EfVXju68=","host":{"nexus":{"game":"fallout4","mod":61205,"file":323316}}}
 ],
 "files":{
