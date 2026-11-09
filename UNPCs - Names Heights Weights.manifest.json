@@ -1,9 +1,3 @@
 {
-"version":1,
-"packages":[
-{"kind":"installationFile","name":"UNPCs - Minor Conflict Resolution Patches-61205-1-5-1718687970.7z","packageVersion":"1.5.0.0","size":68059,"hash":"Rr4EfVXju68=","host":{"nexus":{"game":"fallout4","mod":61205,"file":323316}}}
-],
-"files":{
-"optional/UNPC - ImmersiveDrumlinDiner.esp":"zvGSJMeY2+U="
-}
+"version":1
 }

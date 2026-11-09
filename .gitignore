@@ -5,4 +5,5 @@
 !/plugin-source/
 !/plugin-source/**
 !/UNPCs\ -\ Names\ Heights\ Weights.manifest.json
-/optional/UNPC\ -\ ImmersiveDrumlinDiner.esp
+!/optional/
+!/optional/**
