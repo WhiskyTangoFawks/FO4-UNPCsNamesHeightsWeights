@@ -275,31 +275,38 @@
     {
       "Index": 1,
       "Rotation": "0, 0.2, 0",
-      "Scale": 0.2
+      "Scale": 0.2,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 2,
-      "Scale": -0.13
+      "Scale": -0.13,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 5,
-      "Position": "0, -0.2, 0"
+      "Position": "0, -0.2, 0",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 6,
-      "Position": "0, 0.1, 0"
+      "Position": "0, 0.1, 0",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 61,
-      "Rotation": "0, -1, 0"
+      "Rotation": "0, -1, 0",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 62,
-      "Rotation": "0, -0.2, 0"
+      "Rotation": "0, -0.2, 0",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 63,
-      "Position": "1, 0, 0"
+      "Position": "1, 0, 0",
+      "Unknown": "0x0000000000000000"
     }
   ],
   "MajorFlags": [

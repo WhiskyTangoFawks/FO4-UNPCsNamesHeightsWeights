@@ -139,11 +139,13 @@
   "FaceMorphs": [
     {
       "Index": 1,
-      "Position": "0, 0.23, 0"
+      "Position": "0, 0.23, 0",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 2,
-      "Position": "0, 1, 0"
+      "Position": "0, 1, 0",
+      "Unknown": "0x0000000000000000"
     }
   ],
   "MajorFlags": [

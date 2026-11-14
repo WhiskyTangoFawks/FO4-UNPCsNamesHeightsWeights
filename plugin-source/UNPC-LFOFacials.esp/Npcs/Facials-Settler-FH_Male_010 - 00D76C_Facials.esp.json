@@ -258,7 +258,8 @@
   "FaceMorphs": [
     {
       "Index": 921646276,
-      "Scale": 0.2
+      "Scale": 0.2,
+      "Unknown": "0x0000000000000000"
     }
   ],
   "MajorFlags": [

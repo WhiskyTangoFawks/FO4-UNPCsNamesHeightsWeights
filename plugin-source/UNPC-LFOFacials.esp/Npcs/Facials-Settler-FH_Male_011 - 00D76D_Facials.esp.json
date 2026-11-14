@@ -331,33 +331,40 @@
   "FaceMorphs": [
     {
       "Index": 25,
-      "Scale": 0.81
+      "Scale": 0.81,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 26,
-      "Position": "-0.86, 0, 0"
+      "Position": "-0.86, 0, 0",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 27,
-      "Position": "-0.1, 0, 0"
+      "Position": "-0.1, 0, 0",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 62,
-      "Scale": 0.7
+      "Scale": 0.7,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646275,
       "Position": "-0.26, 0, 0",
       "Rotation": "0.76, 0, 0",
-      "Scale": -0.35
+      "Scale": -0.35,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646276,
-      "Scale": -0.78
+      "Scale": -0.78,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646277,
-      "Scale": 0.62
+      "Scale": 0.62,
+      "Unknown": "0x0000000000000000"
     }
   ],
   "MajorFlags": [

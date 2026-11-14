@@ -250,72 +250,88 @@
   "FaceMorphs": [
     {
       "Index": 2,
-      "Position": "0, 0, 0.186"
+      "Position": "0, 0, 0.186",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 3,
-      "Position": "0, -0.09, 0.258"
+      "Position": "0, -0.09, 0.258",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 4,
-      "Position": "0, 0, 0.09"
+      "Position": "0, 0, 0.09",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 5,
-      "Position": "-0.33, -0.102, -0.228"
+      "Position": "-0.33, -0.102, -0.228",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 9,
-      "Position": "0, 0, 0.246"
+      "Position": "0, 0, 0.246",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 25,
       "Position": "0, 0.06, -0.82",
-      "Scale": -0.5
+      "Scale": -0.5,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 26,
-      "Position": "0, -0.474, 0.03"
+      "Position": "0, -0.474, 0.03",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 27,
-      "Position": "0, 0, -0.15"
+      "Position": "0, 0, -0.15",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 63,
-      "Position": "0, -0.02, -0.14"
+      "Position": "0, -0.02, -0.14",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646267,
-      "Position": "0, -0.36, 0.16"
+      "Position": "0, -0.36, 0.16",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646269,
       "Position": "0, 0, 0.114",
-      "Scale": 0.47
+      "Scale": 0.47,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646271,
       "Position": "-0.084, 0, -0.276",
-      "Scale": 0.096
+      "Scale": 0.096,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646273,
-      "Position": "0, 0, -0.162"
+      "Position": "0, 0, -0.162",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646274,
-      "Position": "0, 0, -0.462"
+      "Position": "0, 0, -0.462",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646276,
       "Position": "0, 0.114, 0.234",
-      "Scale": -0.132
+      "Scale": -0.132,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646277,
       "Position": "-0.162, -0.246, 0",
-      "Rotation": "0, 0, -0.276"
+      "Rotation": "0, 0, -0.276",
+      "Unknown": "0x0000000000000000"
     }
   ],
   "FacialMorphIntensity": 5.0,

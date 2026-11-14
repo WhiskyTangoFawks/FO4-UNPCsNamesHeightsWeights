@@ -246,11 +246,13 @@
   "FaceMorphs": [
     {
       "Index": 5,
-      "Scale": -0.58
+      "Scale": -0.58,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646269,
-      "Scale": 0.32
+      "Scale": 0.32,
+      "Unknown": "0x0000000000000000"
     }
   ],
   "MajorFlags": [

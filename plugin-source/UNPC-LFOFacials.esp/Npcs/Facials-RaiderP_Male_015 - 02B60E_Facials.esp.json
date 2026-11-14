@@ -238,35 +238,42 @@
   "FaceMorphs": [
     {
       "Index": 4,
-      "Scale": 1.0
+      "Scale": 1.0,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 9,
       "Position": "0, 0.7, -0.78",
-      "Scale": -0.65
+      "Scale": -0.65,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 10,
       "Position": "-0.11, 0.09, 0",
-      "Scale": 0.62
+      "Scale": 0.62,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646266,
-      "Scale": 0.84
+      "Scale": 0.84,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646273,
       "Position": "0, 0.03, -0.53",
-      "Scale": 0.78
+      "Scale": 0.78,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646275,
       "Position": "0, 0.43, 0.62",
-      "Scale": 0.27
+      "Scale": 0.27,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646278,
-      "Scale": 0.03
+      "Scale": 0.03,
+      "Unknown": "0x0000000000000000"
     }
   ],
   "MajorFlags": [

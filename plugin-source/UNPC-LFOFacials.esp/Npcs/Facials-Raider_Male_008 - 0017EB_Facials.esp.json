@@ -275,30 +275,36 @@
     {
       "Index": 9,
       "Position": "0, -0.2, 0",
-      "Scale": 0.51
+      "Scale": 0.51,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 10,
       "Position": "0.22, 0.09, 0",
-      "Scale": 0.65
+      "Scale": 0.65,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646273,
       "Position": "0, 0.03, -0.53",
-      "Scale": 0.78
+      "Scale": 0.78,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646275,
       "Position": "0, 1, -1",
-      "Scale": -0.4
+      "Scale": -0.4,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646276,
-      "Scale": 0.35
+      "Scale": 0.35,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646278,
-      "Scale": 0.03
+      "Scale": 0.03,
+      "Unknown": "0x0000000000000000"
     }
   ],
   "MajorFlags": [

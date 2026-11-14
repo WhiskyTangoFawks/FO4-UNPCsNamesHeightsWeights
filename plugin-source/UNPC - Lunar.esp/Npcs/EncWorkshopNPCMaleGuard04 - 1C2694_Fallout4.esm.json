@@ -325,110 +325,134 @@
   "FaceMorphs": [
     {
       "Index": 1,
-      "Position": "0, 0.49, 0"
+      "Position": "0, 0.49, 0",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 2,
-      "Position": "0, 0.54, 0"
+      "Position": "0, 0.54, 0",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 3,
       "Position": "0.03, -0.04, 0",
-      "Scale": -0.01
+      "Scale": -0.01,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 4,
       "Position": "0, 0, 0.03",
-      "Scale": 0.03
+      "Scale": 0.03,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 5,
       "Position": "0, 0, 0.52",
       "Rotation": "0, -0.69, 0",
-      "Scale": -0.17
+      "Scale": -0.17,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 9,
       "Position": "0, 0.38, -0.14",
-      "Scale": -0.66
+      "Scale": -0.66,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 10,
       "Position": "0.16, 0.59, -0.04",
-      "Scale": -0.04
+      "Scale": -0.04,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 26,
-      "Position": "0, 0.31, 0"
+      "Position": "0, 0.31, 0",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 27,
-      "Position": "0.06, 0.06, 0.06"
+      "Position": "0.06, 0.06, 0.06",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 62,
-      "Position": "0, 0.06, 0"
+      "Position": "0, 0.06, 0",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 63,
-      "Position": "0, 0.32, 1"
+      "Position": "0, 0.32, 1",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646266,
       "Position": "0.06, 0.09, 0.08",
-      "Scale": 0.42
+      "Scale": 0.42,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646267,
-      "Position": "-0.07, -0.73, 0.55"
+      "Position": "-0.07, -0.73, 0.55",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646268,
-      "Position": "0, -0.01, 1"
+      "Position": "0, -0.01, 1",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646269,
-      "Position": "0, 0.09, 0"
+      "Position": "0, 0.09, 0",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646270,
-      "Position": "0, 0, -0.14"
+      "Position": "0, 0, -0.14",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646271,
       "Rotation": "0, 0, -0.14",
-      "Scale": 0.29
+      "Scale": 0.29,
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646272,
-      "Position": "0, -0.08, 0.14"
+      "Position": "0, -0.08, 0.14",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646273,
-      "Position": "0, -0.13, -0.32"
+      "Position": "0, -0.13, -0.32",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646274,
-      "Position": "0, 0.32, 0"
+      "Position": "0, 0.32, 0",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646275,
       "Position": "0, 0.39, 0",
-      "Rotation": "0.11, 0, 0"
+      "Rotation": "0.11, 0, 0",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646277,
       "Position": "0, -0.13, 0",
-      "Rotation": "0, 0, 0.29"
+      "Rotation": "0, 0, 0.29",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646278,
-      "Position": "0, 0, 0.23"
+      "Position": "0, 0, 0.23",
+      "Unknown": "0x0000000000000000"
     },
     {
       "Index": 921646279,
       "Position": "0, 0, 0.54",
-      "Scale": -0.73
+      "Scale": -0.73,
+      "Unknown": "0x0000000000000000"
     }
   ],
   "MajorFlags": [
